@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slow History</title>
+    <link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link>
+    <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A private bedtime history podcast made for Augusto Restrepo. Thomas and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Oct 2026 21:20:02 -0400</lastBuildDate>
+    <itunes:author>Slow History</itunes:author>
+    <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. Thomas and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</itunes:summary>
+    <itunes:subtitle>Real history, told slowly, for falling asleep.</itunes:subtitle>
+    <itunes:owner><itunes:name>Slow History</itunes:name></itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg"/>
+    <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
+    <itunes:category text="History"/>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Shenzhen, Part 1: The County by the Sea</title>
+      <description>Thomas and Clara drift back through sixteen centuries on the coast that became Shenzhen: Nantou and the salt fields, the walled towns of 1394, Xin'an county, the Great Clearance, Hakka and Cantonese villages, the Opium Wars and the new Hong Kong border, and the little railway market town called Shenzhen. Part 1 of 3.
+
+Chapters: 1. Settling in; 2. The edge of the delta; 3. Nantou, the old seat; 4. Walls against the pirates; 5. Xin'an, a new county; 6. The great clearance; 7. Hakka and Cantonese villages; 8. Ships on the horizon; 9. A railway and a market town; 10. Not just a fishing village; 11. Goodnight.</description>
+      <itunes:summary>Thomas and Clara drift back through sixteen centuries on the coast that became Shenzhen: Nantou and the salt fields, the walled towns of 1394, Xin'an county, the Great Clearance, Hakka and Cantonese villages, the Opium Wars and the new Hong Kong border, and the little railway market town called Shenzhen. Part 1 of 3.
+
+Chapters: 1. Settling in; 2. The edge of the delta; 3. Nantou, the old seat; 4. Walls against the pirates; 5. Xin'an, a new county; 6. The great clearance; 7. Hakka and Cantonese villages; 8. Ships on the horizon; 9. A railway and a market town; 10. Not just a fishing village; 11. Goodnight.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/shenzhen-1-the-county-by-the-sea.mp3" length="15025303" type="audio/mpeg"/>
+      <guid isPermaLink="false">shenzhen-1-the-county-by-the-sea</guid>
+      <pubDate>Tue, 13 Oct 2026 21:20:02 -0400</pubDate>
+      <itunes:duration>00:25:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
