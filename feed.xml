@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. Thomas and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 22:06:24 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:09:14 -0400</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. Thomas and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</itunes:summary>
     <itunes:subtitle>Real history, told slowly, for falling asleep.</itunes:subtitle>
@@ -17,6 +17,18 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Babylon: City of the Gate of the Gods</title>
+      <description>Henry and Clara drift through Babylon on the Euphrates: clay tablets and cuneiform, Hammurabi's laws, Nebuchadnezzar's city, the blue Ishtar Gate, the ziggurat and the star-watchers, a quiet day on the rooftops, the mystery of the Hanging Gardens, Cyrus and Alexander, and the city that faded into legend. Ancient Cities, 1 of 4.</description>
+      <itunes:summary>Henry and Clara drift through Babylon on the Euphrates: clay tablets and cuneiform, Hammurabi's laws, Nebuchadnezzar's city, the blue Ishtar Gate, the ziggurat and the star-watchers, a quiet day on the rooftops, the mystery of the Hanging Gardens, Cyrus and Alexander, and the city that faded into legend. Ancient Cities, 1 of 4.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/ancient-babylon.mp3" length="15449132" type="audio/mpeg"/>
+      <guid isPermaLink="false">ancient-babylon</guid>
+      <pubDate>Wed, 14 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:duration>00:32:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Shenzhen, Part 1: The County by the Sea</title>
       <description>Thomas and Clara drift back through sixteen centuries on the coast that became Shenzhen: Nantou and the salt fields, the walled towns of 1394, Xin'an county, the Great Clearance, Hakka and Cantonese villages, the Opium Wars and the new Hong Kong border, and the little railway market town called Shenzhen. Part 1 of 3.
