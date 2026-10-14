@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. Thomas and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:19:33 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:20:55 -0400</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. Thomas and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</itunes:summary>
     <itunes:subtitle>Real history, told slowly, for falling asleep.</itunes:subtitle>
@@ -42,11 +42,11 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Athens: City of the Owl and the Olive</title>
+      <title>Athens: City of Athena and the Olive</title>
       <description>Henry and Clara climb the Acropolis: Athena's olive tree, the birth of democracy, the Persian wars, Pericles and the Parthenon, the festival of Athena, the harbour and the long walls, theatre and Socrates, war and plague, and the Parthenon's many lives. Ancient Cities, 2 of 4.</description>
       <itunes:summary>Henry and Clara climb the Acropolis: Athena's olive tree, the birth of democracy, the Persian wars, Pericles and the Parthenon, the festival of Athena, the harbour and the long walls, theatre and Socrates, war and plague, and the Parthenon's many lives. Ancient Cities, 2 of 4.</itunes:summary>
       <itunes:author>Slow History</itunes:author>
-      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/ancient-athens.mp3" length="12964844" type="audio/mpeg"/>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/ancient-athens.mp3" length="12964892" type="audio/mpeg"/>
       <guid isPermaLink="false">ancient-athens</guid>
       <pubDate>Wed, 14 Oct 2026 19:01:00 -0400</pubDate>
       <itunes:duration>00:27:01</itunes:duration>

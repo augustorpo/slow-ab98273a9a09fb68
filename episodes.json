@@ -23,17 +23,6 @@
   },
   {
     "date": "2026-10-14",
-    "title": "Athens: City of the Owl and the Olive",
-    "description": "Henry and Clara climb the Acropolis: Athena's olive tree, the birth of democracy, the Persian wars, Pericles and the Parthenon, the festival of Athena, the harbour and the long walls, theatre and Socrates, war and plague, and the Parthenon's many lives. Ancient Cities, 2 of 4.",
-    "file": "ancient-athens.mp3",
-    "length": 12964844,
-    "duration": "00:27:01",
-    "pub_iso": "2026-10-14T19:01:00-04:00",
-    "guid": "ancient-athens",
-    "slug": "ancient-athens"
-  },
-  {
-    "date": "2026-10-14",
     "title": "Petra: The Rose-Red City of the Desert",
     "description": "Henry and Clara walk the Siq into Petra: the Nabataeans and the incense caravans, the Treasury and its legend, a city carved in stone, water saved in the desert, fine painted pottery, the Monastery at sunset, Rome and the earthquakes, and Burckhardt's quiet rediscovery. Ancient Cities, 3 of 4.",
     "file": "ancient-petra.mp3",
@@ -53,5 +42,16 @@
     "pub_iso": "2026-10-14T19:03:00-04:00",
     "guid": "ancient-teotihuacan",
     "slug": "ancient-teotihuacan"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Athens: City of Athena and the Olive",
+    "description": "Henry and Clara climb the Acropolis: Athena's olive tree, the birth of democracy, the Persian wars, Pericles and the Parthenon, the festival of Athena, the harbour and the long walls, theatre and Socrates, war and plague, and the Parthenon's many lives. Ancient Cities, 2 of 4.",
+    "file": "ancient-athens.mp3",
+    "length": 12964892,
+    "duration": "00:27:01",
+    "pub_iso": "2026-10-14T19:01:00-04:00",
+    "guid": "ancient-athens",
+    "slug": "ancient-athens"
   }
 ]
