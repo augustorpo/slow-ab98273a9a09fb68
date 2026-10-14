@@ -31,5 +31,16 @@
     "pub_iso": "2026-10-14T19:01:00-04:00",
     "guid": "ancient-athens",
     "slug": "ancient-athens"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Petra: The Rose-Red City of the Desert",
+    "description": "Henry and Clara walk the Siq into Petra: the Nabataeans and the incense caravans, the Treasury and its legend, a city carved in stone, water saved in the desert, fine painted pottery, the Monastery at sunset, Rome and the earthquakes, and Burckhardt's quiet rediscovery. Ancient Cities, 3 of 4.",
+    "file": "ancient-petra.mp3",
+    "length": 14524652,
+    "duration": "00:30:16",
+    "pub_iso": "2026-10-14T19:02:00-04:00",
+    "guid": "ancient-petra",
+    "slug": "ancient-petra"
   }
 ]
