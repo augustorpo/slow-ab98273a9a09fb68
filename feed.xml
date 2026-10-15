@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. Thomas and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 06:09:45 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:37:03 -0400</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. Thomas and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</itunes:summary>
     <itunes:subtitle>Real history, told slowly, for falling asleep.</itunes:subtitle>
@@ -17,6 +17,18 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Shenzhen, Part 3: The City of Arrivals</title>
+      <description>Henry and Clara follow Shenzhen from 1992 to today: millions of young arrivals and factory dormitories, 'once you come, you are a Shenzhener', the 1997 Hong Kong handover, the stalls of Huaqiangbei, Huawei, BYD, Tencent and DJI, some harder chapters, Futian's towers and Lotus Hill, electric buses and the bay, the painters of Dafen, the end of the second line, and Shekou and old Nantou today. Part 3 of 3.</description>
+      <itunes:summary>Henry and Clara follow Shenzhen from 1992 to today: millions of young arrivals and factory dormitories, 'once you come, you are a Shenzhener', the 1997 Hong Kong handover, the stalls of Huaqiangbei, Huawei, BYD, Tencent and DJI, some harder chapters, Futian's towers and Lotus Hill, electric buses and the bay, the painters of Dafen, the end of the second line, and Shekou and old Nantou today. Part 3 of 3.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/shenzhen-3-the-city-of-arrivals.mp3" length="14840108" type="audio/mpeg"/>
+      <guid isPermaLink="false">shenzhen-3-the-city-of-arrivals</guid>
+      <pubDate>Thu, 15 Oct 2026 06:37:03 -0400</pubDate>
+      <itunes:duration>00:30:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Shenzhen, Part 2: A River, a Fence, an Experiment</title>
       <description>Henry and Clara follow Shenzhen from 1949 to 1992: a quiet border town on the railway, two very different sides of a river, Yuan Geng's circle on the map at Shekou, the 1980 Special Economic Zone, 'Shenzhen speed', Deng's 1984 visit, the second-line fence, villages that grew upward, first land auctions and young companies, and the 1992 Southern Tour. Part 2 of 3.</description>
