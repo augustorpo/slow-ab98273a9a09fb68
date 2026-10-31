@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. Henry and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 21:27:43 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:34:12 -0400</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. Henry and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</itunes:summary>
     <itunes:subtitle>Real history, told slowly, for falling asleep.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Machu Picchu, Part 3: The Quiet Centuries</title>
+      <description>Part 3 of 3. Henry and Clara follow Machu Picchu from the fall of the Inca empire to today: the epidemic and civil war, Pizarro and Cajamarca, Manco Inca's last refuge at Vilcabamba, and why the estate emptied with no sign the Spanish ever found it. Cusco rebuilt on Inca walls. Three quiet centuries of forest and farmers, early maps, the debated Berns story, and Agustín Lizárraga's charcoal "1902" on the Temple of the Three Windows. Then the damp morning of 24 July 1911: Melchor Arteaga, Sergeant Carrasco, the Richarte and Álvarez families, a local boy leading Hiram Bingham to the ruins, and the real Vilcabamba he walked past. Who gets the credit, Yale's century-long hold on the artifacts and their return to Cusco's Casa Concha, and Machu Picchu now: UNESCO, timed tickets, llamas, orchids and spectacled bears. Debated points (the city's original name, Berns, why it was abandoned) are gently flagged. Next on Slow History: Pompeii.
+
+Chapters: 1. Settling In; 2. The Empire Breaks; 3. The Last Inca Refuge; 4. Cusco Under New Rulers; 5. The Quiet Centuries; 6. A Damp Morning in July; 7. Digging and Telling; 8. Who Gets the Credit?; 9. The Long Way Home; 10. Machu Picchu Today; 11. Goodnight, Machu Picchu.</description>
+      <itunes:summary>Part 3 of 3. Henry and Clara follow Machu Picchu from the fall of the Inca empire to today: the epidemic and civil war, Pizarro and Cajamarca, Manco Inca's last refuge at Vilcabamba, and why the estate emptied with no sign the Spanish ever found it. Cusco rebuilt on Inca walls. Three quiet centuries of forest and farmers, early maps, the debated Berns story, and Agustín Lizárraga's charcoal "1902" on the Temple of the Three Windows. Then the damp morning of 24 July 1911: Melchor Arteaga, Sergeant Carrasco, the Richarte and Álvarez families, a local boy leading Hiram Bingham to the ruins, and the real Vilcabamba he walked past. Who gets the credit, Yale's century-long hold on the artifacts and their return to Cusco's Casa Concha, and Machu Picchu now: UNESCO, timed tickets, llamas, orchids and spectacled bears. Debated points (the city's original name, Berns, why it was abandoned) are gently flagged. Next on Slow History: Pompeii.
+
+Chapters: 1. Settling In; 2. The Empire Breaks; 3. The Last Inca Refuge; 4. Cusco Under New Rulers; 5. The Quiet Centuries; 6. A Damp Morning in July; 7. Digging and Telling; 8. Who Gets the Credit?; 9. The Long Way Home; 10. Machu Picchu Today; 11. Goodnight, Machu Picchu.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/machu-picchu-3-the-quiet-centuries.mp3" length="16669244" type="audio/mpeg"/>
+      <guid isPermaLink="false">machu-picchu-3-the-quiet-centuries</guid>
+      <pubDate>Sat, 31 Oct 2026 06:34:12 -0400</pubDate>
+      <itunes:duration>00:27:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Machu Picchu, Part 2: Inside the City in the Clouds</title>
       <description>Part 2 of 3. Henry and Clara walk slowly through Machu Picchu: in through the main gate, to the curved Temple of the Sun and its June-solstice window, the quiet cave below, the royal rooms by the first fountain, the quarry, the Sacred Plaza and the Temple of the Three Windows, and the carved Intihuatana (whose name and purpose are still debated). Then the people: a 2023 ancient-DNA study shows the estate's attendants came from all over the Inca world, from the coast to the Amazon. A gentle imagined day on the ridge, the Temple of the Condor, and out along the Inca roads to the Sun Gate. Next: Part 3, the quiet centuries and how the world came to hear of it.
