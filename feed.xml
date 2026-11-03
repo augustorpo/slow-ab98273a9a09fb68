@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. Henry and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 06:34:12 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:57:41 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. Henry and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</itunes:summary>
     <itunes:subtitle>Real history, told slowly, for falling asleep.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Pompeii: The Town Beneath the Mountain</title>
+      <description>A single narrator tells the story of Pompeii, the Roman town on the Bay of Naples. It begins with the eruption of Vesuvius in AD 79 and the eyewitness letters of Pliny the Younger, including the death of his uncle, Pliny the Elder, at Stabiae. Then the debate over the date: August or October? After that the episode slows into the centuries the town lay buried, its rediscovery, Fiorelli's plaster casts and the site today. It ends in quiet daily life: the streets, fountains and bakeries, the election notices and graffiti, the baths and amphitheatre, the houses and gardens, and evening on the bay.
+
+Chapters: 1. A Town Beneath the Mountain; 2. The Mountain; 3. The Letters of Pliny; 4. Darkness at Misenum; 5. What the Volcano Did; 6. Which Day?; 7. Asleep for Centuries; 8. The Shapes in the Ash; 9. Pompeii Today; 10. Streets, Water and Bread; 11. Walls That Talk; 12. Temples, Baths and Games; 13. Houses and Gardens; 14. Evening on the Bay.</description>
+      <itunes:summary>A single narrator tells the story of Pompeii, the Roman town on the Bay of Naples. It begins with the eruption of Vesuvius in AD 79 and the eyewitness letters of Pliny the Younger, including the death of his uncle, Pliny the Elder, at Stabiae. Then the debate over the date: August or October? After that the episode slows into the centuries the town lay buried, its rediscovery, Fiorelli's plaster casts and the site today. It ends in quiet daily life: the streets, fountains and bakeries, the election notices and graffiti, the baths and amphitheatre, the houses and gardens, and evening on the bay.
+
+Chapters: 1. A Town Beneath the Mountain; 2. The Mountain; 3. The Letters of Pliny; 4. Darkness at Misenum; 5. What the Volcano Did; 6. Which Day?; 7. Asleep for Centuries; 8. The Shapes in the Ash; 9. Pompeii Today; 10. Streets, Water and Bread; 11. Walls That Talk; 12. Temples, Baths and Games; 13. Houses and Gardens; 14. Evening on the Bay.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/pompeii-the-town-beneath-the-mountain.mp3" length="19627484" type="audio/mpeg"/>
+      <guid isPermaLink="false">pompeii-the-town-beneath-the-mountain</guid>
+      <pubDate>Mon, 02 Nov 2026 22:00:00 -0500</pubDate>
+      <itunes:duration>00:32:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Machu Picchu, Part 3: The Quiet Centuries</title>
       <description>Part 3 of 3. Henry and Clara follow Machu Picchu from the fall of the Inca empire to today: the epidemic and civil war, Pizarro and Cajamarca, Manco Inca's last refuge at Vilcabamba, and why the estate emptied with no sign the Spanish ever found it. Cusco rebuilt on Inca walls. Three quiet centuries of forest and farmers, early maps, the debated Berns story, and Agustín Lizárraga's charcoal "1902" on the Temple of the Three Windows. Then the damp morning of 24 July 1911: Melchor Arteaga, Sergeant Carrasco, the Richarte and Álvarez families, a local boy leading Hiram Bingham to the ruins, and the real Vilcabamba he walked past. Who gets the credit, Yale's century-long hold on the artifacts and their return to Cusco's Casa Concha, and Machu Picchu now: UNESCO, timed tickets, llamas, orchids and spectacled bears. Debated points (the city's original name, Berns, why it was abandoned) are gently flagged. Next on Slow History: Pompeii.
