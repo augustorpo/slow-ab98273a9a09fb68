@@ -119,5 +119,16 @@
     "pub_iso": "2026-11-02T22:00:00-05:00",
     "guid": "pompeii-the-town-beneath-the-mountain",
     "slug": "pompeii-the-town-beneath-the-mountain"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "Angkor: The City in the Forest",
+    "description": "A single narrator tells the story of Angkor, the great capital of the Khmer Empire in Cambodia. It begins with the Cham attack of 1177 and the rise of Jayavarman VII, who built Angkor Thom and the Bayon with its calm stone faces. Then the long, gradual fading of the capital, where historians still debate the causes. After that the episode goes back to the beginnings: Phnom Kulen, the brick towers of Roluos, and the barays and canals revealed by lidar. It goes on to the island shrine of Neak Pean, Banteay Srei, Angkor Wat and its carvings, and the account of the Chinese envoy Zhou Daguan. It ends in daily life and evening among the temples.\n\nChapters: 1. The City in the Forest; 2. Fire on the Lake; 3. A New Capital; 4. The Long Fading; 5. Never Quite Lost; 6. Beginnings on the Mountain; 7. The Sacred Bull; 8. Water; 9. The Island in the Pool; 10. The Citadel of Women; 11. The Temple of Vishnu; 12. Stories in Stone; 13. A Visitor from China; 14. Daily Life; 15. Evening at Angkor.",
+    "file": "angkor-the-city-in-the-forest.mp3",
+    "length": 16302044,
+    "duration": "00:27:10",
+    "pub_iso": "2026-11-02T22:01:00-05:00",
+    "guid": "angkor-the-city-in-the-forest",
+    "slug": "angkor-the-city-in-the-forest"
   }
 ]
