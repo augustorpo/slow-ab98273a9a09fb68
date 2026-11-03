@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. Henry and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 21:57:47 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:57:52 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. Henry and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</itunes:summary>
     <itunes:subtitle>Real history, told slowly, for falling asleep.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Alexandria: The Library by the Sea</title>
+      <description>A single narrator tells the story of the Library of Alexandria. It begins with the question of how the library ended: Caesar's fire, Aurelian's war, the Serapeum, Hypatia and a later legend. None of these alone tells the whole story. Then the debate over how many books it held. After that the episode goes back to Alexander's founding of the city, its streets and harbours, the Pharos lighthouse, and the Museum and its scholars, from Callimachus's catalogue to Eratosthenes measuring the Earth. Later it visits the Serapeum, the catacombs of Kom el Shoqafa, the papyri of Oxyrhynchus and the new Bibliotheca Alexandrina. It ends with evening on the harbour.
+
+Chapters: 1. A Library by the Sea; 2. How Did It End?; 3. How Many Books?; 4. The City of Alexander; 5. Streets of Alexandria; 6. The Lighthouse; 7. The Museum; 8. Collecting the World; 9. The Librarians; 10. Measuring the Earth; 11. Scholars of the Museum; 12. The Temple of Serapis; 13. The Last of the Ptolemies; 14. Beneath the City; 15. Books in the Sand; 16. The New Library; 17. Evening on the Harbour.</description>
+      <itunes:summary>A single narrator tells the story of the Library of Alexandria. It begins with the question of how the library ended: Caesar's fire, Aurelian's war, the Serapeum, Hypatia and a later legend. None of these alone tells the whole story. Then the debate over how many books it held. After that the episode goes back to Alexander's founding of the city, its streets and harbours, the Pharos lighthouse, and the Museum and its scholars, from Callimachus's catalogue to Eratosthenes measuring the Earth. Later it visits the Serapeum, the catacombs of Kom el Shoqafa, the papyri of Oxyrhynchus and the new Bibliotheca Alexandrina. It ends with evening on the harbour.
+
+Chapters: 1. A Library by the Sea; 2. How Did It End?; 3. How Many Books?; 4. The City of Alexander; 5. Streets of Alexandria; 6. The Lighthouse; 7. The Museum; 8. Collecting the World; 9. The Librarians; 10. Measuring the Earth; 11. Scholars of the Museum; 12. The Temple of Serapis; 13. The Last of the Ptolemies; 14. Beneath the City; 15. Books in the Sand; 16. The New Library; 17. Evening on the Harbour.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/alexandria-the-library-by-the-sea.mp3" length="16193804" type="audio/mpeg"/>
+      <guid isPermaLink="false">alexandria-the-library-by-the-sea</guid>
+      <pubDate>Mon, 02 Nov 2026 22:02:00 -0500</pubDate>
+      <itunes:duration>00:26:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Angkor: The City in the Forest</title>
       <description>A single narrator tells the story of Angkor, the great capital of the Khmer Empire in Cambodia. It begins with the Cham attack of 1177 and the rise of Jayavarman VII, who built Angkor Thom and the Bayon with its calm stone faces. Then the long, gradual fading of the capital, where historians still debate the causes. After that the episode goes back to the beginnings: Phnom Kulen, the brick towers of Roluos, and the barays and canals revealed by lidar. It goes on to the island shrine of Neak Pean, Banteay Srei, Angkor Wat and its carvings, and the account of the Chinese envoy Zhou Daguan. It ends in daily life and evening among the temples.
