@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. Henry and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 21:57:52 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:57:58 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. Henry and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</itunes:summary>
     <itunes:subtitle>Real history, told slowly, for falling asleep.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>The Great Wall: Many Walls</title>
+      <description>A single narrator tells the story of the Great Wall of China, which is really many walls built over two thousand years. It begins with the Ming frontier's most dramatic moments: the capture of an emperor at Tumu in 1449, Altan Khan's raid of 1550 and the peace that followed, and the opening of Shanhaiguan in 1644. Then it goes back to rammed-earth walls, the Qin and Han frontiers, and soldiers' letters on wooden strips. After that come the beacon towers, the walls between the dynasties, the Cloud Platform at Juyongguan, Qi Jiguang's brick towers, and travellers such as Xuanzang and the Macartney embassy. It also covers Jiayuguan and a few myths, including whether the Wall is visible from space. It ends with evening on a quiet stretch of the wall.
+
+Chapters: 1. Many Walls; 2. The Emperor Who Was Captured; 3. Raiders at the Gates; 4. The Gate by the Sea; 5. Earth Between Boards; 6. The Han Frontier; 7. Letters on Wood; 8. Signals Across the Hills; 9. Between the Dynasties; 10. Soldiers from the South; 11. Brick and Stone; 12. Travellers at the Gates; 13. A Few Old Stories; 14. The Fortress in the West; 15. The Wall Today; 16. Walking the Wall; 17. Along the Line; 18. Evening on the Wall.</description>
+      <itunes:summary>A single narrator tells the story of the Great Wall of China, which is really many walls built over two thousand years. It begins with the Ming frontier's most dramatic moments: the capture of an emperor at Tumu in 1449, Altan Khan's raid of 1550 and the peace that followed, and the opening of Shanhaiguan in 1644. Then it goes back to rammed-earth walls, the Qin and Han frontiers, and soldiers' letters on wooden strips. After that come the beacon towers, the walls between the dynasties, the Cloud Platform at Juyongguan, Qi Jiguang's brick towers, and travellers such as Xuanzang and the Macartney embassy. It also covers Jiayuguan and a few myths, including whether the Wall is visible from space. It ends with evening on a quiet stretch of the wall.
+
+Chapters: 1. Many Walls; 2. The Emperor Who Was Captured; 3. Raiders at the Gates; 4. The Gate by the Sea; 5. Earth Between Boards; 6. The Han Frontier; 7. Letters on Wood; 8. Signals Across the Hills; 9. Between the Dynasties; 10. Soldiers from the South; 11. Brick and Stone; 12. Travellers at the Gates; 13. A Few Old Stories; 14. The Fortress in the West; 15. The Wall Today; 16. Walking the Wall; 17. Along the Line; 18. Evening on the Wall.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/great-wall-many-walls.mp3" length="15997244" type="audio/mpeg"/>
+      <guid isPermaLink="false">great-wall-many-walls</guid>
+      <pubDate>Mon, 02 Nov 2026 22:03:00 -0500</pubDate>
+      <itunes:duration>00:26:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Alexandria: The Library by the Sea</title>
       <description>A single narrator tells the story of the Library of Alexandria. It begins with the question of how the library ended: Caesar's fire, Aurelian's war, the Serapeum, Hypatia and a later legend. None of these alone tells the whole story. Then the debate over how many books it held. After that the episode goes back to Alexander's founding of the city, its streets and harbours, the Pharos lighthouse, and the Museum and its scholars, from Callimachus's catalogue to Eratosthenes measuring the Earth. Later it visits the Serapeum, the catacombs of Kom el Shoqafa, the papyri of Oxyrhynchus and the new Bibliotheca Alexandrina. It ends with evening on the harbour.
