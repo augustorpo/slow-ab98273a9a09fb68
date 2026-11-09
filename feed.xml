@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 20:46:17 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:46:22 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Rome: The City of Seven Hills</title>
+      <description>A single narrator tells the story of Rome from the seven hills beside the Tiber. It begins with the Romulus legend as legend, early kings and the Republic, then aqueducts, the Forum, the Colosseum, and the Pantheon. After a gentle pass through later papal and Italian Rome, it ends with evening among the stones of the Forum.
+
+Chapters: 1. The City of Seven Hills; 2. Legend and Beginning; 3. The Republic; 4. Water on Arches; 5. Forum, Colosseum, Pantheon; 6. Living in the Ancient City; 7. After the Emperors; 8. Walking the Hills; 9. Fountains and Everyday Water; 10. Palatine and Capitoline; 11. Bread, Circuses, and Ordinary Days; 12. Concrete, Arch, and Dome; 13. Pilgrims and the Christian City; 14. Modern Capitals Inside One City; 15. Markets of Trajan and the Crowded Centre; 16. Latin Voices Softly Recalled; 17. Tiber Island and the River's Mood; 18. Quiet Arrival at Night; 19. Ostia and the Mouth of the River; 20. Closing the Day Gently; 21. Aurelian Walls and the City's Edge; 22. Gardens, Villas, and Shade; 23. Evening Among the Stones.</description>
+      <itunes:summary>A single narrator tells the story of Rome from the seven hills beside the Tiber. It begins with the Romulus legend as legend, early kings and the Republic, then aqueducts, the Forum, the Colosseum, and the Pantheon. After a gentle pass through later papal and Italian Rome, it ends with evening among the stones of the Forum.
+
+Chapters: 1. The City of Seven Hills; 2. Legend and Beginning; 3. The Republic; 4. Water on Arches; 5. Forum, Colosseum, Pantheon; 6. Living in the Ancient City; 7. After the Emperors; 8. Walking the Hills; 9. Fountains and Everyday Water; 10. Palatine and Capitoline; 11. Bread, Circuses, and Ordinary Days; 12. Concrete, Arch, and Dome; 13. Pilgrims and the Christian City; 14. Modern Capitals Inside One City; 15. Markets of Trajan and the Crowded Centre; 16. Latin Voices Softly Recalled; 17. Tiber Island and the River's Mood; 18. Quiet Arrival at Night; 19. Ostia and the Mouth of the River; 20. Closing the Day Gently; 21. Aurelian Walls and the City's Edge; 22. Gardens, Villas, and Shade; 23. Evening Among the Stones.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/rome-the-city-of-seven-hills.mp3" length="16855385" type="audio/mpeg"/>
+      <guid isPermaLink="false">rome-the-city-of-seven-hills</guid>
+      <pubDate>Sun, 08 Nov 2026 20:42:00 -0500</pubDate>
+      <itunes:duration>00:28:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Paris: The Island in the River</title>
       <description>A single narrator tells the story of Paris from its river islands outward. It begins with the Seine and the Parisii settlement of Lutetia, then Clovis and the Capetians, Notre-Dame, the Louvre fortress, and the Left Bank schools. After a light touch on revolutionary storms, it covers Haussmann's boulevards and the Eiffel Tower, and ends with evening on the quays.
