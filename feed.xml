@@ -4,12 +4,12 @@
     <title>Slow History</title>
     <link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link>
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>A private bedtime history podcast made for Augusto Restrepo. Henry and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</description>
+    <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 21:57:58 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:46:11 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
-    <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. Henry and Clara narrate real, carefully researched history (cities, inventors, ancient worlds) slowly and softly, to help you drift off to sleep.</itunes:summary>
-    <itunes:subtitle>Real history, told slowly, for falling asleep.</itunes:subtitle>
+    <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
+    <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
     <itunes:owner><itunes:name>Slow History</itunes:name></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>New York: The Harbour of Arrivals</title>
+      <description>A single narrator tells the story of New York City as a harbour town that grew into a metropolis. It begins with the harbour and the Lenape shore, then Verrazzano and Henry Hudson, Dutch New Amsterdam, and the English takeover in 1664. After that come the Revolution and Washington's inauguration, the Erie Canal, the 1811 grid, the Brooklyn Bridge, Central Park, the Statue of Liberty, Ellis Island, and the five-borough consolidation of 1898. It ends with evening on the harbour.
+
+Chapters: 1. The Harbour; 2. A Ship in the Bay; 3. The English Take the Town; 4. A Canal to the West; 5. A Bridge and a Park; 6. Lady Liberty and the Island of Arrivals; 7. Streets and Sky; 8. Walking the Tip of the Island; 9. Five Boroughs, One Harbour; 10. Markets, Ferries, and Daily Bread; 11. The Grid Fills In; 12. Bridges, Tunnels, and the Modern Port; 13. Soft City Nights; 14. Names on the Land; 15. Evening on the Harbour.</description>
+      <itunes:summary>A single narrator tells the story of New York City as a harbour town that grew into a metropolis. It begins with the harbour and the Lenape shore, then Verrazzano and Henry Hudson, Dutch New Amsterdam, and the English takeover in 1664. After that come the Revolution and Washington's inauguration, the Erie Canal, the 1811 grid, the Brooklyn Bridge, Central Park, the Statue of Liberty, Ellis Island, and the five-borough consolidation of 1898. It ends with evening on the harbour.
+
+Chapters: 1. The Harbour; 2. A Ship in the Bay; 3. The English Take the Town; 4. A Canal to the West; 5. A Bridge and a Park; 6. Lady Liberty and the Island of Arrivals; 7. Streets and Sky; 8. Walking the Tip of the Island; 9. Five Boroughs, One Harbour; 10. Markets, Ferries, and Daily Bread; 11. The Grid Fills In; 12. Bridges, Tunnels, and the Modern Port; 13. Soft City Nights; 14. Names on the Land; 15. Evening on the Harbour.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/new-york-the-harbour-of-arrivals.mp3" length="17314838" type="audio/mpeg"/>
+      <guid isPermaLink="false">new-york-the-harbour-of-arrivals</guid>
+      <pubDate>Sun, 08 Nov 2026 20:40:00 -0500</pubDate>
+      <itunes:duration>00:28:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>The Great Wall: Many Walls</title>
       <description>A single narrator tells the story of the Great Wall of China, which is really many walls built over two thousand years. It begins with the Ming frontier's most dramatic moments: the capture of an emperor at Tumu in 1449, Altan Khan's raid of 1550 and the peace that followed, and the opening of Shanhaiguan in 1644. Then it goes back to rammed-earth walls, the Qin and Han frontiers, and soldiers' letters on wooden strips. After that come the beacon towers, the walls between the dynasties, the Cloud Platform at Juyongguan, Qi Jiguang's brick towers, and travellers such as Xuanzang and the Macartney embassy. It also covers Jiayuguan and a few myths, including whether the Wall is visible from space. It ends with evening on a quiet stretch of the wall.
