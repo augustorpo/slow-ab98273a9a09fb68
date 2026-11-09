@@ -163,5 +163,16 @@
     "pub_iso": "2026-11-08T20:40:00-05:00",
     "guid": "new-york-the-harbour-of-arrivals",
     "slug": "new-york-the-harbour-of-arrivals"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Paris: The Island in the River",
+    "description": "A single narrator tells the story of Paris from its river islands outward. It begins with the Seine and the Parisii settlement of Lutetia, then Clovis and the Capetians, Notre-Dame, the Louvre fortress, and the Left Bank schools. After a light touch on revolutionary storms, it covers Haussmann's boulevards and the Eiffel Tower, and ends with evening on the quays.\n\nChapters: 1. The Island in the River; 2. Lutetia; 3. A Capital of Kings; 4. Notre-Dame and the Louvre; 5. Students of the Left Bank; 6. Storm and Smoke; 7. Haussmann's Boulevards; 8. An Iron Tower; 9. Walking the Quays; 10. Markets and Neighbourhoods; 11. Bridges Over the Seine; 12. Stone, Water, and Quiet Hours; 13. From Island Outward; 14. Sainte-Chapelle and Royal Light; 15. The University Quarter in Detail; 16. Revolution's Edge, Softly Told; 17. Shops, Arcades, and Evening Streets; 18. Montmartre and the Northern Height; 19. A City That Reads Itself; 20. Boatmen and the City Motto; 21. Evening on the Seine.",
+    "file": "paris-the-island-in-the-river.mp3",
+    "length": 16455354,
+    "duration": "00:27:25",
+    "pub_iso": "2026-11-08T20:41:00-05:00",
+    "guid": "paris-the-island-in-the-river",
+    "slug": "paris-the-island-in-the-river"
   }
 ]

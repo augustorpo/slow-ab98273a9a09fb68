@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 20:46:11 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:46:17 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Paris: The Island in the River</title>
+      <description>A single narrator tells the story of Paris from its river islands outward. It begins with the Seine and the Parisii settlement of Lutetia, then Clovis and the Capetians, Notre-Dame, the Louvre fortress, and the Left Bank schools. After a light touch on revolutionary storms, it covers Haussmann's boulevards and the Eiffel Tower, and ends with evening on the quays.
+
+Chapters: 1. The Island in the River; 2. Lutetia; 3. A Capital of Kings; 4. Notre-Dame and the Louvre; 5. Students of the Left Bank; 6. Storm and Smoke; 7. Haussmann's Boulevards; 8. An Iron Tower; 9. Walking the Quays; 10. Markets and Neighbourhoods; 11. Bridges Over the Seine; 12. Stone, Water, and Quiet Hours; 13. From Island Outward; 14. Sainte-Chapelle and Royal Light; 15. The University Quarter in Detail; 16. Revolution's Edge, Softly Told; 17. Shops, Arcades, and Evening Streets; 18. Montmartre and the Northern Height; 19. A City That Reads Itself; 20. Boatmen and the City Motto; 21. Evening on the Seine.</description>
+      <itunes:summary>A single narrator tells the story of Paris from its river islands outward. It begins with the Seine and the Parisii settlement of Lutetia, then Clovis and the Capetians, Notre-Dame, the Louvre fortress, and the Left Bank schools. After a light touch on revolutionary storms, it covers Haussmann's boulevards and the Eiffel Tower, and ends with evening on the quays.
+
+Chapters: 1. The Island in the River; 2. Lutetia; 3. A Capital of Kings; 4. Notre-Dame and the Louvre; 5. Students of the Left Bank; 6. Storm and Smoke; 7. Haussmann's Boulevards; 8. An Iron Tower; 9. Walking the Quays; 10. Markets and Neighbourhoods; 11. Bridges Over the Seine; 12. Stone, Water, and Quiet Hours; 13. From Island Outward; 14. Sainte-Chapelle and Royal Light; 15. The University Quarter in Detail; 16. Revolution's Edge, Softly Told; 17. Shops, Arcades, and Evening Streets; 18. Montmartre and the Northern Height; 19. A City That Reads Itself; 20. Boatmen and the City Motto; 21. Evening on the Seine.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/paris-the-island-in-the-river.mp3" length="16455354" type="audio/mpeg"/>
+      <guid isPermaLink="false">paris-the-island-in-the-river</guid>
+      <pubDate>Sun, 08 Nov 2026 20:41:00 -0500</pubDate>
+      <itunes:duration>00:27:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>New York: The Harbour of Arrivals</title>
       <description>A single narrator tells the story of New York City as a harbour town that grew into a metropolis. It begins with the harbour and the Lenape shore, then Verrazzano and Henry Hudson, Dutch New Amsterdam, and the English takeover in 1664. After that come the Revolution and Washington's inauguration, the Erie Canal, the 1811 grid, the Brooklyn Bridge, Central Park, the Statue of Liberty, Ellis Island, and the five-borough consolidation of 1898. It ends with evening on the harbour.
