@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:32:37 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:32:45 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Thomas Edison, Part 2: The Garden at Fort Myers</title>
+      <description>The second of two nights with Thomas Edison. It opens with the Pearl Street station lighting lower Manhattan in September 1882, then follows the move to the great laboratory at West Orange, the improved phonograph, the quarrel over alternating current, the iron mine, and the first motion pictures in the Black Maria. It ends at his winter home on the Caloosahatchee River at Fort Myers, in the garden at dusk.
+
+Chapters: 1. Three O'Clock on Pearl Street (0:14); 2. Digging Up Manhattan (2:09); 3. A Hard Year, and a New Beginning (4:24); 4. Finding Fort Myers (6:57); 5. West Orange (8:36); 6. The Quarrel over Current (11:10); 7. The Mountain of Iron (13:07); 8. To Do for the Eye (14:17); 9. One Percent Inspiration (16:58); 10. The Fire at West Orange (18:47); 11. Light's Golden Jubilee (20:42); 12. A Winter Home by the River (22:32); 13. The Garden at Fort Myers (24:59); 14. Evening by the Caloosahatchee (26:01).</description>
+      <itunes:summary>The second of two nights with Thomas Edison. It opens with the Pearl Street station lighting lower Manhattan in September 1882, then follows the move to the great laboratory at West Orange, the improved phonograph, the quarrel over alternating current, the iron mine, and the first motion pictures in the Black Maria. It ends at his winter home on the Caloosahatchee River at Fort Myers, in the garden at dusk.
+
+Chapters: 1. Three O'Clock on Pearl Street (0:14); 2. Digging Up Manhattan (2:09); 3. A Hard Year, and a New Beginning (4:24); 4. Finding Fort Myers (6:57); 5. West Orange (8:36); 6. The Quarrel over Current (11:10); 7. The Mountain of Iron (13:07); 8. To Do for the Eye (14:17); 9. One Percent Inspiration (16:58); 10. The Fire at West Orange (18:47); 11. Light's Golden Jubilee (20:42); 12. A Winter Home by the River (22:32); 13. The Garden at Fort Myers (24:59); 14. Evening by the Caloosahatchee (26:01).</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/thomas-edison-2-the-garden-at-fort-myers.mp3" length="16655476" type="audio/mpeg"/>
+      <guid isPermaLink="false">thomas-edison-2-the-garden-at-fort-myers</guid>
+      <pubDate>Tue, 17 Nov 2026 06:32:44 -0500</pubDate>
+      <itunes:duration>00:27:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Thomas Edison, Part 1: The Wizard of Menlo Park</title>
       <description>The first of two nights with Thomas Edison. It opens at Menlo Park in December 1877, when a tinfoil machine first speaks back, then goes back to the canal town of Milan, Ohio, the boyhood by the St. Clair River at Port Huron, the newsboy and wandering telegrapher years, and the Newark workshops. From there it follows the invention factory at Menlo Park, the phonograph and the long search for a lasting light bulb in 1879, and ends on a quiet winter evening among the lamps in the snow.
