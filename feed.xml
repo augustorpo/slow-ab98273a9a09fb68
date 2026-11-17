@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:42:41 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:44:21 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Alan Turing: The Universal Machine</title>
+      <description>A single night with Alan Turing. It opens in Hut Eight at Bletchley Park in 1940, where the naval Enigma was attacked with his new bombe, then goes back to the boy who cycled sixty miles to Sherborne during the General Strike, King's College, and the 1936 paper that imagined the universal machine. After Bletchley come the ACE design, Manchester, the imitation game and his work on spots and stripes; his last years and his death in 1954 are told briefly and factually. It ends with his long runs, the meadows at Grantchester, and an evening by the lake at Bletchley.
+
+Chapters: 1. Hut Eight; 2. A Boy on a Bicycle; 3. Sherborne; 4. King's College; 5. On Computable Numbers; 6. Princeton; 7. The Polish Gift; 8. The Bombe; 9. The Naval Enigma; 10. The Prof; 11. The Automatic Computing Engine; 12. The Runner; 13. Manchester; 14. A Game of Chess on Paper; 15. Spots and Stripes; 16. The Last Years at Wilmslow; 17. The Long Road; 18. Grantchester Meadows; 19. The Lake at Bletchley.</description>
+      <itunes:summary>A single night with Alan Turing. It opens in Hut Eight at Bletchley Park in 1940, where the naval Enigma was attacked with his new bombe, then goes back to the boy who cycled sixty miles to Sherborne during the General Strike, King's College, and the 1936 paper that imagined the universal machine. After Bletchley come the ACE design, Manchester, the imitation game and his work on spots and stripes; his last years and his death in 1954 are told briefly and factually. It ends with his long runs, the meadows at Grantchester, and an evening by the lake at Bletchley.
+
+Chapters: 1. Hut Eight; 2. A Boy on a Bicycle; 3. Sherborne; 4. King's College; 5. On Computable Numbers; 6. Princeton; 7. The Polish Gift; 8. The Bombe; 9. The Naval Enigma; 10. The Prof; 11. The Automatic Computing Engine; 12. The Runner; 13. Manchester; 14. A Game of Chess on Paper; 15. Spots and Stripes; 16. The Last Years at Wilmslow; 17. The Long Road; 18. Grantchester Meadows; 19. The Lake at Bletchley.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/alan-turing-the-universal-machine.mp3" length="16681124" type="audio/mpeg"/>
+      <guid isPermaLink="false">alan-turing-the-universal-machine</guid>
+      <pubDate>Tue, 17 Nov 2026 06:44:00 -0500</pubDate>
+      <itunes:duration>00:27:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Marie Curie, Part 1: The Shed on the Rue Lhomond</title>
       <description>The first of two nights with Marie Curie. It opens in a darkened shed in Paris, where tubes of radium glow on the shelves, then goes back to her childhood in Russian-ruled Warsaw, the secret Flying University, the years as a governess, and a cold garret near the Sorbonne. From there it follows her meeting with Pierre Curie, the uranium rays, the discovery of polonium and radium, and the 1903 Nobel Prize, and ends on a quiet Sunday bicycle ride in the countryside.

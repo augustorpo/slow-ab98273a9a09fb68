@@ -462,5 +462,16 @@
     "pub_iso": "2026-11-17T06:42:00-05:00",
     "guid": "isaac-newton-2-the-system-of-the-world",
     "slug": "isaac-newton-2-the-system-of-the-world"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Alan Turing: The Universal Machine",
+    "description": "A single night with Alan Turing. It opens in Hut Eight at Bletchley Park in 1940, where the naval Enigma was attacked with his new bombe, then goes back to the boy who cycled sixty miles to Sherborne during the General Strike, King's College, and the 1936 paper that imagined the universal machine. After Bletchley come the ACE design, Manchester, the imitation game and his work on spots and stripes; his last years and his death in 1954 are told briefly and factually. It ends with his long runs, the meadows at Grantchester, and an evening by the lake at Bletchley.\n\nChapters: 1. Hut Eight; 2. A Boy on a Bicycle; 3. Sherborne; 4. King's College; 5. On Computable Numbers; 6. Princeton; 7. The Polish Gift; 8. The Bombe; 9. The Naval Enigma; 10. The Prof; 11. The Automatic Computing Engine; 12. The Runner; 13. Manchester; 14. A Game of Chess on Paper; 15. Spots and Stripes; 16. The Last Years at Wilmslow; 17. The Long Road; 18. Grantchester Meadows; 19. The Lake at Bletchley.",
+    "file": "alan-turing-the-universal-machine.mp3",
+    "length": 16681124,
+    "duration": "00:27:48",
+    "pub_iso": "2026-11-17T06:44:00-05:00",
+    "guid": "alan-turing-the-universal-machine",
+    "slug": "alan-turing-the-universal-machine"
   }
 ]
