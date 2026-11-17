@@ -352,5 +352,27 @@
     "pub_iso": "2026-11-17T06:36:40-05:00",
     "guid": "nikola-tesla-2-the-power-of-niagara",
     "slug": "nikola-tesla-2-the-power-of-niagara"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Galileo Galilei, Part 1: The Starry Messenger",
+    "description": "The first of two nights with Galileo. It opens on a cold January night in Padua in 1610, when three small points of light beside Jupiter began to move, then goes back to Pisa: a musician's son, the swinging lamp and the leaning tower (both stories told gently as uncertain), and the long, happy years in Padua with balls rolling down slopes. It follows the spyglass from Holland to the bell tower of Saint Mark's, the mountains of the Moon, the Starry Messenger of 1610, and ends in a quiet garden in Padua under the winter stars.\n\nChapters: 1. Three Small Stars; 2. A Musician's Son in Pisa; 3. The Student of Medicine; 4. The Swinging Lamp; 5. Falling Bodies; 6. The Road to Padua; 7. A House in Padua; 8. Balls on a Slope; 9. News from Holland; 10. Grinding Glass; 11. The Face of the Moon; 12. The Starry Messenger; 13. Court Mathematician; 14. More Wonders in the Sky; 15. A Visit to Rome; 16. A Clear Night over Padua.",
+    "file": "galileo-1-the-starry-messenger.mp3",
+    "length": 16802908,
+    "duration": "00:28:00",
+    "pub_iso": "2026-11-17T06:36:00-05:00",
+    "guid": "galileo-1-the-starry-messenger",
+    "slug": "galileo-1-the-starry-messenger"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Galileo Galilei, Part 2: The Villa at Arcetri",
+    "description": "The second of two nights with Galileo. It begins with the morning in June 1633 when he knelt before the Roman Inquisition, then goes back to tell, factually and calmly, how he came there: Florence, the letters on scripture, the decree of 1616, the Dialogue and its cabin below decks, and the trial. Then it slows into his last years under house arrest at Arcetri, his daughter Maria Celeste, Two New Sciences and the pendulum clock, and ends on a spring evening on the Tuscan hills above Florence.\n\nChapters: 1. A Morning in June; 2. Return to Florence; 3. Ice and Ebony; 4. Letters on Scripture; 5. The Decree of 1616; 6. A Clock in the Sky; 7. The Assayer; 8. A Dialogue in Four Days; 9. The Cabin Below Decks; 10. The Summons; 11. A Famous Phrase; 12. Siena and the Road Home; 13. Two New Sciences; 14. Darkness and Visitors; 15. Days at Il Gioiello; 16. The Villa on the Hill; 17. Evening at Arcetri.",
+    "file": "galileo-2-the-villa-at-arcetri.mp3",
+    "length": 16283603,
+    "duration": "00:27:08",
+    "pub_iso": "2026-11-17T06:37:00-05:00",
+    "guid": "galileo-2-the-villa-at-arcetri",
+    "slug": "galileo-2-the-villa-at-arcetri"
   }
 ]
