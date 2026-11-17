@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 22:00:27 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:00:40 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -26,7 +26,7 @@ Chapters: 1. The Castle Changes Hands; 2. An Emperor in the East; 3. Steam and B
 
 Chapters: 1. The Castle Changes Hands; 2. An Emperor in the East; 3. Steam and Brick; 4. A City of Stations; 5. The Earthquake of 1923; 6. Fire and Rebuilding; 7. The Autumn of 1964; 8. A Forest Planted by a Nation; 9. The Hill at Ueno; 10. The Old Lanes of Yanaka; 11. A Garden by the River; 12. The Last Streetcar; 13. Morning at the Market; 14. The Neighbourhood Bath; 15. Winter Light on the Mountain; 16. The Turning of the Year; 17. The Sumida at Dusk.</itunes:summary>
       <itunes:author>Slow History</itunes:author>
-      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/tokyo-2-the-eastern-capital.mp3" length="16866764" type="audio/mpeg"/>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/tokyo-2-the-eastern-capital.mp3" length="16868045" type="audio/mpeg"/>
       <guid isPermaLink="false">tokyo-2-the-eastern-capital</guid>
       <pubDate>Mon, 16 Nov 2026 21:55:00 -0500</pubDate>
       <itunes:duration>00:28:07</itunes:duration>
@@ -58,7 +58,7 @@ Chapters: 1. Black Ships in the Bay; 2. A Village Where the Rivers Meet the Sea;
 
 Chapters: 1. Black Ships in the Bay; 2. A Village Where the Rivers Meet the Sea; 3. The Castle of Ota Dokan; 4. Ieyasu Comes East; 5. Making Land from Marsh and Hill; 6. The Lords' Long Roads; 7. The Long-Sleeves Fire; 8. Temples and Shrines of the Town; 9. Water for a Million People; 10. Nihonbashi, the Bridge at the Centre; 11. Markets and Morning Fish; 12. The Floating World; 13. The Gardens of the Lords; 14. Seasons Along the River; 15. An Evening in Old Edo.</itunes:summary>
       <itunes:author>Slow History</itunes:author>
-      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/tokyo-1-the-castle-town-of-edo.mp3" length="16910204" type="audio/mpeg"/>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/tokyo-1-the-castle-town-of-edo.mp3" length="16911413" type="audio/mpeg"/>
       <guid isPermaLink="false">tokyo-1-the-castle-town-of-edo</guid>
       <pubDate>Mon, 16 Nov 2026 21:54:00 -0500</pubDate>
       <itunes:duration>00:28:11</itunes:duration>
