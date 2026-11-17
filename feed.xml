@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:32:45 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:32:55 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Nikola Tesla, Part 1: The Rotating Field</title>
+      <description>The first of two nights with Nikola Tesla. It opens in Budapest's City Park in 1882, where by his own account the idea of the rotating magnetic field came to him, then goes back to the village of Smiljan in Lika, school in Karlovac, Graz and Prague, and the telephone exchange in Budapest. From there it follows Paris and Strasbourg, his arrival in New York in 1884, the lean years, the alternating current motor, and his partnership with George Westinghouse, and ends on a quiet evening in his Manhattan laboratory.
+
+Chapters: 1. Sunset in the City Park (0:14); 2. A Village in Lika (2:24); 3. The Cat and the Sparks (4:20); 4. Karlovac and the Fever (5:47); 5. Graz and the Dynamo (7:33); 6. The Telephone Exchange (9:53); 7. Paris and Strasbourg (11:14); 8. Arrival in New York (13:01); 9. The Lean Year (14:45); 10. The Motor Takes Shape (16:17); 11. Westinghouse (17:44); 12. The Royalty (21:05); 13. The Laboratory at Night (22:29); 14. A Man of Habits (23:50); 15. Evening on South Fifth Avenue (25:17).</description>
+      <itunes:summary>The first of two nights with Nikola Tesla. It opens in Budapest's City Park in 1882, where by his own account the idea of the rotating magnetic field came to him, then goes back to the village of Smiljan in Lika, school in Karlovac, Graz and Prague, and the telephone exchange in Budapest. From there it follows Paris and Strasbourg, his arrival in New York in 1884, the lean years, the alternating current motor, and his partnership with George Westinghouse, and ends on a quiet evening in his Manhattan laboratory.
+
+Chapters: 1. Sunset in the City Park (0:14); 2. A Village in Lika (2:24); 3. The Cat and the Sparks (4:20); 4. Karlovac and the Fever (5:47); 5. Graz and the Dynamo (7:33); 6. The Telephone Exchange (9:53); 7. Paris and Strasbourg (11:14); 8. Arrival in New York (13:01); 9. The Lean Year (14:45); 10. The Motor Takes Shape (16:17); 11. Westinghouse (17:44); 12. The Royalty (21:05); 13. The Laboratory at Night (22:29); 14. A Man of Habits (23:50); 15. Evening on South Fifth Avenue (25:17).</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/nikola-tesla-1-the-rotating-field.mp3" length="16372047" type="audio/mpeg"/>
+      <guid isPermaLink="false">nikola-tesla-1-the-rotating-field</guid>
+      <pubDate>Tue, 17 Nov 2026 06:32:55 -0500</pubDate>
+      <itunes:duration>00:27:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Thomas Edison, Part 2: The Garden at Fort Myers</title>
       <description>The second of two nights with Thomas Edison. It opens with the Pearl Street station lighting lower Manhattan in September 1882, then follows the move to the great laboratory at West Orange, the improved phonograph, the quarrel over alternating current, the iron mine, and the first motion pictures in the Black Maria. It ends at his winter home on the Caloosahatchee River at Fort Myers, in the garden at dusk.
