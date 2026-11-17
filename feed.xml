@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 21:54:26 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:00:27 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -42,7 +42,7 @@ Capítulos: 1. El valle de Aburrá; 2. Los años difíciles; 3. La transformaci�
 
 Capítulos: 1. El valle de Aburrá; 2. Los años difíciles; 3. La transformación; 4. El valle de los aburraes; 5. La Villa de la Candelaria; 6. La nueva capital; 7. El tren y las fábricas; 8. La ciudad crece; 9. Guayaquil y los mercados; 10. La vida de barrio; 11. El jardín botánico; 12. Botero y las plazas del centro; 13. Santa Elena y los silleteros; 14. La Feria de las Flores; 15. Las montañas de Arví; 16. El río del valle; 17. La gente del valle; 18. Una tarde en el valle.</itunes:summary>
       <itunes:author>Slow History</itunes:author>
-      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/medellin-2-el-valle-de-la-eterna-primavera.mp3" length="16561441" type="audio/mpeg"/>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/medellin-2-el-valle-de-la-eterna-primavera.mp3" length="16562805" type="audio/mpeg"/>
       <guid isPermaLink="false">medellin-2-el-valle-de-la-eterna-primavera</guid>
       <pubDate>Mon, 16 Nov 2026 21:54:00 -0500</pubDate>
       <itunes:duration>00:27:36</itunes:duration>
@@ -74,7 +74,7 @@ Capítulos: 1. Una tierra hecha de montañas; 2. Los primeros pueblos; 3. Robled
 
 Capítulos: 1. Una tierra hecha de montañas; 2. Los primeros pueblos; 3. Robledo y la conquista; 4. Santa Fe de Antioquia; 5. El oro de los ríos; 6. La libertad de El Guarzo; 7. Mon y Velarde y los nuevos pueblos; 8. Rionegro y el altiplano; 9. Los arrieros; 10. Hacia el sur; 11. El café; 12. Los pueblos del suroeste; 13. La casa campesina; 14. La música de las montañas; 15. Los pueblos y sus plazas; 16. Una tarde en el altiplano.</itunes:summary>
       <itunes:author>Slow History</itunes:author>
-      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/antioquia-1-oro-arrieros-y-montanas.mp3" length="16703989" type="audio/mpeg"/>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/antioquia-1-oro-arrieros-y-montanas.mp3" length="16705164" type="audio/mpeg"/>
       <guid isPermaLink="false">antioquia-1-oro-arrieros-y-montanas</guid>
       <pubDate>Mon, 16 Nov 2026 21:53:00 -0500</pubDate>
       <itunes:duration>00:27:50</itunes:duration>
