@@ -185,5 +185,16 @@
     "pub_iso": "2026-11-08T20:42:00-05:00",
     "guid": "rome-the-city-of-seven-hills",
     "slug": "rome-the-city-of-seven-hills"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Cartagena, Parte 1: La bahía y las murallas",
+    "description": "Primera de dos noches en Cartagena de Indias. Un narrador cuenta, sin prisa, la bahía de Calamarí y sus primeros pueblos, la fundación de Pedro de Heredia en 1533, las flotas de la plata, los corsarios y la toma de Francis Drake en 1586. Después siguen el plan de Antonelli, las murallas de piedra coralina, el castillo de San Felipe y el canal del Dique, hasta una tarde tranquila sobre la muralla.\n\nCapítulos: 1. La bahía de Calamarí; 2. Los pueblos antes de la ciudad; 3. Pedro de Heredia; 4. La fundación; 5. Una ciudad de paja y madera; 6. Las flotas de la plata; 7. Hawkins y el Draque; 8. La toma de 1586; 9. El plan de Antonelli; 10. La piedra del mar; 11. La boca que se cerró; 12. El castillo en el cerro de San Lázaro; 13. El barón de Pointis; 14. El canal hacia el gran río; 15. La Popa y la Virgen de la Candelaria; 16. La vida dentro de las murallas; 17. El ritmo del puerto; 18. Una tarde en la muralla.",
+    "file": "cartagena-1-la-bahia-y-las-murallas.mp3",
+    "length": 17027497,
+    "duration": "00:28:23",
+    "pub_iso": "2026-11-16T21:50:00-05:00",
+    "guid": "cartagena-1-la-bahia-y-las-murallas",
+    "slug": "cartagena-1-la-bahia-y-las-murallas"
   }
 ]

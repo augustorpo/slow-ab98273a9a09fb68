@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 20:46:22 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 21:49:23 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Cartagena, Parte 1: La bahía y las murallas</title>
+      <description>Primera de dos noches en Cartagena de Indias. Un narrador cuenta, sin prisa, la bahía de Calamarí y sus primeros pueblos, la fundación de Pedro de Heredia en 1533, las flotas de la plata, los corsarios y la toma de Francis Drake en 1586. Después siguen el plan de Antonelli, las murallas de piedra coralina, el castillo de San Felipe y el canal del Dique, hasta una tarde tranquila sobre la muralla.
+
+Capítulos: 1. La bahía de Calamarí; 2. Los pueblos antes de la ciudad; 3. Pedro de Heredia; 4. La fundación; 5. Una ciudad de paja y madera; 6. Las flotas de la plata; 7. Hawkins y el Draque; 8. La toma de 1586; 9. El plan de Antonelli; 10. La piedra del mar; 11. La boca que se cerró; 12. El castillo en el cerro de San Lázaro; 13. El barón de Pointis; 14. El canal hacia el gran río; 15. La Popa y la Virgen de la Candelaria; 16. La vida dentro de las murallas; 17. El ritmo del puerto; 18. Una tarde en la muralla.</description>
+      <itunes:summary>Primera de dos noches en Cartagena de Indias. Un narrador cuenta, sin prisa, la bahía de Calamarí y sus primeros pueblos, la fundación de Pedro de Heredia en 1533, las flotas de la plata, los corsarios y la toma de Francis Drake en 1586. Después siguen el plan de Antonelli, las murallas de piedra coralina, el castillo de San Felipe y el canal del Dique, hasta una tarde tranquila sobre la muralla.
+
+Capítulos: 1. La bahía de Calamarí; 2. Los pueblos antes de la ciudad; 3. Pedro de Heredia; 4. La fundación; 5. Una ciudad de paja y madera; 6. Las flotas de la plata; 7. Hawkins y el Draque; 8. La toma de 1586; 9. El plan de Antonelli; 10. La piedra del mar; 11. La boca que se cerró; 12. El castillo en el cerro de San Lázaro; 13. El barón de Pointis; 14. El canal hacia el gran río; 15. La Popa y la Virgen de la Candelaria; 16. La vida dentro de las murallas; 17. El ritmo del puerto; 18. Una tarde en la muralla.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/cartagena-1-la-bahia-y-las-murallas.mp3" length="17027497" type="audio/mpeg"/>
+      <guid isPermaLink="false">cartagena-1-la-bahia-y-las-murallas</guid>
+      <pubDate>Mon, 16 Nov 2026 21:50:00 -0500</pubDate>
+      <itunes:duration>00:28:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Rome: The City of Seven Hills</title>
       <description>A single narrator tells the story of Rome from the seven hills beside the Tiber. It begins with the Romulus legend as legend, early kings and the Republic, then aqueducts, the Forum, the Colosseum, and the Pantheon. After a gentle pass through later papal and Italian Rome, it ends with evening among the stones of the Forum.
