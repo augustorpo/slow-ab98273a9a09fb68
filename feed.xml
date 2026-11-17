@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:38:55 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:39:22 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Leonardo da Vinci, Part 3: The River at Amboise</title>
+      <description>The last of three nights with Leonardo da Vinci, through his wandering years. It opens with Cesare Borgia's passport naming him architect and general engineer, then follows the map of Imola, the plan to move the Arno, the lost Battle of Anghiari and the portrait of Lisa del Giocondo. From the anatomy drawings and the notebook on the flight of birds to Rome and a mechanical lion for the King of France, it ends at Clos Lucé in Amboise, on the Loire at evening.
+
+Chapters: 1. Architect and General Engineer; 2. Leaving Milan; 3. The Cartoon of Saint Anne; 4. The Map of Imola; 5. The Envoy from Florence; 6. Moving a River; 7. The Battle of Anghiari; 8. The Wife of Francesco del Giocondo; 9. Birds over Fiesole; 10. The Anatomist; 11. Why the Moon Glows; 12. Rome; 13. A Lion for the King; 14. The House at Cloux; 15. Saint John Pointing Upward; 16. Last Plans; 17. Spring in Amboise; 18. The Scattered Pages; 19. The Loire at Evening.</description>
+      <itunes:summary>The last of three nights with Leonardo da Vinci, through his wandering years. It opens with Cesare Borgia's passport naming him architect and general engineer, then follows the map of Imola, the plan to move the Arno, the lost Battle of Anghiari and the portrait of Lisa del Giocondo. From the anatomy drawings and the notebook on the flight of birds to Rome and a mechanical lion for the King of France, it ends at Clos Lucé in Amboise, on the Loire at evening.
+
+Chapters: 1. Architect and General Engineer; 2. Leaving Milan; 3. The Cartoon of Saint Anne; 4. The Map of Imola; 5. The Envoy from Florence; 6. Moving a River; 7. The Battle of Anghiari; 8. The Wife of Francesco del Giocondo; 9. Birds over Fiesole; 10. The Anatomist; 11. Why the Moon Glows; 12. Rome; 13. A Lion for the King; 14. The House at Cloux; 15. Saint John Pointing Upward; 16. Last Plans; 17. Spring in Amboise; 18. The Scattered Pages; 19. The Loire at Evening.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/leonardo-da-vinci-3-the-river-at-amboise.mp3" length="16858317" type="audio/mpeg"/>
+      <guid isPermaLink="false">leonardo-da-vinci-3-the-river-at-amboise</guid>
+      <pubDate>Tue, 17 Nov 2026 06:39:22 -0500</pubDate>
+      <itunes:duration>00:28:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Zhang Heng and Su Song: The Dragon Jar and the Clock Tower</title>
       <description>Two Chinese scholars nine centuries apart. Zhang Heng, the Han dynasty astronomer and poet, shows the court his bronze earthquake detector in AD 132, writes his rhapsodies on the capitals and turns a model of the heavens by water. Then Su Song builds his great water-driven clock tower at Kaifeng in the 1090s, with its escapement, armillary sphere and little figures announcing the hours. It ends in the quiet observatory garden at Gaocheng.
