@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:42:10 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:42:41 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -34,6 +34,22 @@ Chapters: 1. The Glow in the Dark (0:14); 2. A Childhood in Warsaw (2:00); 3. Th
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>Isaac Newton, Part 2: The System of the World</title>
+      <description>The second of two nights with Isaac Newton. It begins with Edmond Halley's visit to Cambridge in 1684 and the question that led to the Principia of 1687, with its laws of motion and universal gravitation, Hooke's claim, and Halley paying the printer. Then the hidden studies of alchemy and scripture, the move to London, the Royal Mint and the great recoinage, and more than twenty years as President of the Royal Society. It ends at dusk in the orchard at Woolsthorpe, beside the old apple tree that still grows there.
+
+Chapters: 1. A Visitor from London; 2. A Correspondence with Hooke; 3. A Little Treatise; 4. The Principia; 5. Hooke's Claim; 6. Halley Pays the Printer; 7. A Book for Few Readers; 8. Cambridge and the King; 9. Hidden Studies; 10. To London and the Mint; 11. A House in London; 12. President of the Royal Society; 13. A Second Edition; 14. The Boy on the Shore; 15. The House at Woolsthorpe; 16. Evening in the Orchard.</description>
+      <itunes:summary>The second of two nights with Isaac Newton. It begins with Edmond Halley's visit to Cambridge in 1684 and the question that led to the Principia of 1687, with its laws of motion and universal gravitation, Hooke's claim, and Halley paying the printer. Then the hidden studies of alchemy and scripture, the move to London, the Royal Mint and the great recoinage, and more than twenty years as President of the Royal Society. It ends at dusk in the orchard at Woolsthorpe, beside the old apple tree that still grows there.
+
+Chapters: 1. A Visitor from London; 2. A Correspondence with Hooke; 3. A Little Treatise; 4. The Principia; 5. Hooke's Claim; 6. Halley Pays the Printer; 7. A Book for Few Readers; 8. Cambridge and the King; 9. Hidden Studies; 10. To London and the Mint; 11. A House in London; 12. President of the Royal Society; 13. A Second Edition; 14. The Boy on the Shore; 15. The House at Woolsthorpe; 16. Evening in the Orchard.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/isaac-newton-2-the-system-of-the-world.mp3" length="16670935" type="audio/mpeg"/>
+      <guid isPermaLink="false">isaac-newton-2-the-system-of-the-world</guid>
+      <pubDate>Tue, 17 Nov 2026 06:42:00 -0500</pubDate>
+      <itunes:duration>00:27:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Johannes Gutenberg: The Press in Mainz</title>
       <description>How a goldsmith of Mainz made the first great printed book in Europe. It follows Johannes Gutenberg from the patrician families of Mainz to his secret venture in Strasbourg, the punches, moulds, type metal and press, the 42-line Bible of around 1455, and the lawsuit with Johann Fust that cost him his workshop. Then it traces how printing spread across Europe, and ends in a quiet print shop at dusk.
 
@@ -46,6 +62,22 @@ Chapters: 1. Pages at the Frankfurt Fair; 2. The Patrician of Mainz; 3. The Vent
       <guid isPermaLink="false">johannes-gutenberg-the-press-in-mainz</guid>
       <pubDate>Tue, 17 Nov 2026 06:41:48 -0500</pubDate>
       <itunes:duration>00:28:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Isaac Newton, Part 1: The Plague Years</title>
+      <description>The first of two nights with Isaac Newton. It opens in the plague summer of 1665, when Cambridge closed and a quiet young graduate went home to a stone farmhouse in Lincolnshire. It goes back to his lonely childhood at Woolsthorpe, the apothecary's house in Grantham and Trinity College, then follows the plague years: calculus, the Moon's fall, and the apple, told from its real source in William Stukeley's memoir. Then prisms in a darkened room, the crucial experiment, and the little mirror telescope, ending on an evening at Trinity.
+
+Chapters: 1. The Year of the Plague; 2. A Farmhouse in Lincolnshire; 3. The Apothecary's Lodger; 4. Back to the Farm; 5. Trinity College; 6. Isaac Barrow; 7. Woolsthorpe in the Plague Years; 8. The Apple; 9. Measuring the Moon's Fall; 10. The Darkened Room; 11. The Crucial Experiment; 12. The Lucasian Professor; 13. The Mirror Telescope; 14. A Letter on Light; 15. Rings of Colour; 16. Evening at Trinity.</description>
+      <itunes:summary>The first of two nights with Isaac Newton. It opens in the plague summer of 1665, when Cambridge closed and a quiet young graduate went home to a stone farmhouse in Lincolnshire. It goes back to his lonely childhood at Woolsthorpe, the apothecary's house in Grantham and Trinity College, then follows the plague years: calculus, the Moon's fall, and the apple, told from its real source in William Stukeley's memoir. Then prisms in a darkened room, the crucial experiment, and the little mirror telescope, ending on an evening at Trinity.
+
+Chapters: 1. The Year of the Plague; 2. A Farmhouse in Lincolnshire; 3. The Apothecary's Lodger; 4. Back to the Farm; 5. Trinity College; 6. Isaac Barrow; 7. Woolsthorpe in the Plague Years; 8. The Apple; 9. Measuring the Moon's Fall; 10. The Darkened Room; 11. The Crucial Experiment; 12. The Lucasian Professor; 13. The Mirror Telescope; 14. A Letter on Light; 15. Rings of Colour; 16. Evening at Trinity.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/isaac-newton-1-the-plague-years.mp3" length="16303956" type="audio/mpeg"/>
+      <guid isPermaLink="false">isaac-newton-1-the-plague-years</guid>
+      <pubDate>Tue, 17 Nov 2026 06:41:00 -0500</pubDate>
+      <itunes:duration>00:27:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>

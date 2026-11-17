@@ -440,5 +440,27 @@
     "pub_iso": "2026-11-17T06:42:10-05:00",
     "guid": "marie-curie-1-the-shed-on-the-rue-lhomond",
     "slug": "marie-curie-1-the-shed-on-the-rue-lhomond"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Isaac Newton, Part 1: The Plague Years",
+    "description": "The first of two nights with Isaac Newton. It opens in the plague summer of 1665, when Cambridge closed and a quiet young graduate went home to a stone farmhouse in Lincolnshire. It goes back to his lonely childhood at Woolsthorpe, the apothecary's house in Grantham and Trinity College, then follows the plague years: calculus, the Moon's fall, and the apple, told from its real source in William Stukeley's memoir. Then prisms in a darkened room, the crucial experiment, and the little mirror telescope, ending on an evening at Trinity.\n\nChapters: 1. The Year of the Plague; 2. A Farmhouse in Lincolnshire; 3. The Apothecary's Lodger; 4. Back to the Farm; 5. Trinity College; 6. Isaac Barrow; 7. Woolsthorpe in the Plague Years; 8. The Apple; 9. Measuring the Moon's Fall; 10. The Darkened Room; 11. The Crucial Experiment; 12. The Lucasian Professor; 13. The Mirror Telescope; 14. A Letter on Light; 15. Rings of Colour; 16. Evening at Trinity.",
+    "file": "isaac-newton-1-the-plague-years.mp3",
+    "length": 16303956,
+    "duration": "00:27:10",
+    "pub_iso": "2026-11-17T06:41:00-05:00",
+    "guid": "isaac-newton-1-the-plague-years",
+    "slug": "isaac-newton-1-the-plague-years"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Isaac Newton, Part 2: The System of the World",
+    "description": "The second of two nights with Isaac Newton. It begins with Edmond Halley's visit to Cambridge in 1684 and the question that led to the Principia of 1687, with its laws of motion and universal gravitation, Hooke's claim, and Halley paying the printer. Then the hidden studies of alchemy and scripture, the move to London, the Royal Mint and the great recoinage, and more than twenty years as President of the Royal Society. It ends at dusk in the orchard at Woolsthorpe, beside the old apple tree that still grows there.\n\nChapters: 1. A Visitor from London; 2. A Correspondence with Hooke; 3. A Little Treatise; 4. The Principia; 5. Hooke's Claim; 6. Halley Pays the Printer; 7. A Book for Few Readers; 8. Cambridge and the King; 9. Hidden Studies; 10. To London and the Mint; 11. A House in London; 12. President of the Royal Society; 13. A Second Edition; 14. The Boy on the Shore; 15. The House at Woolsthorpe; 16. Evening in the Orchard.",
+    "file": "isaac-newton-2-the-system-of-the-world.mp3",
+    "length": 16670935,
+    "duration": "00:27:47",
+    "pub_iso": "2026-11-17T06:42:00-05:00",
+    "guid": "isaac-newton-2-the-system-of-the-world",
+    "slug": "isaac-newton-2-the-system-of-the-world"
   }
 ]
