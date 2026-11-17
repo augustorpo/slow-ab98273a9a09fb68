@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 22:05:54 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:05:55 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Hong Kong, Part 3: The Harbour at Evening</title>
+      <description>The last of three nights in Hong Kong. The 1984 Joint Declaration and the rainy handover night of 1 July 1997 are told factually, then the story slows into the city as it lives today: the skyline, the ding ding trams, morning dim sum and cha chaan teng cafés, markets and festivals, the country parks, Lantau's Big Buddha and the stilt houses of Tai O, and the car-free outlying islands. It ends on an evening Star Ferry crossing of the harbour.
+
+Chapters: 1. The End of a Lease; 2. The Joint Declaration; 3. The Night of the Handover; 4. A Forest of Towers; 5. Riding the Ding Ding; 6. Morning Tea; 7. Markets and Old Streets; 8. A Year of Festivals; 9. The Green Hills; 10. The Big Island; 11. The Outlying Islands; 12. Evening on the Harbour.</description>
+      <itunes:summary>The last of three nights in Hong Kong. The 1984 Joint Declaration and the rainy handover night of 1 July 1997 are told factually, then the story slows into the city as it lives today: the skyline, the ding ding trams, morning dim sum and cha chaan teng cafés, markets and festivals, the country parks, Lantau's Big Buddha and the stilt houses of Tai O, and the car-free outlying islands. It ends on an evening Star Ferry crossing of the harbour.
+
+Chapters: 1. The End of a Lease; 2. The Joint Declaration; 3. The Night of the Handover; 4. A Forest of Towers; 5. Riding the Ding Ding; 6. Morning Tea; 7. Markets and Old Streets; 8. A Year of Festivals; 9. The Green Hills; 10. The Big Island; 11. The Outlying Islands; 12. Evening on the Harbour.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/hong-kong-3-the-harbour-at-evening.mp3" length="16946924" type="audio/mpeg"/>
+      <guid isPermaLink="false">hong-kong-3-the-harbour-at-evening</guid>
+      <pubDate>Mon, 16 Nov 2026 22:42:00 -0500</pubDate>
+      <itunes:duration>00:28:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Hong Kong, Part 2: The City Climbs the Hills</title>
       <description>The second of three nights in Hong Kong. The colonial town climbs the slopes: the Peak Tram of 1888, the Star Ferry, the plague summer of 1894 told briefly, and Sun Yat-sen's student years. The Japanese occupation of 1941 to 1945 is told soberly, then the postwar refugees, the Shek Kip Mei fire and public housing, the factories of Made in Hong Kong, the new towns, the famous Kai Tak approach and the Kowloon Walled City. It ends in the quiet garden where the Walled City once stood.
