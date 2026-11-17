@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 22:05:55 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:32:20 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Archimedes: The Geometer of Syracuse</title>
+      <description>The life of Archimedes in his home city of Syracuse, from the Roman fleet broken by his machines in 213 BC to the quiet harbour at evening. It follows the law of the lever and Hiero's great ship, the golden wreath and the bath (a later legend, told by Vitruvius), floating bodies, the water screw, circles and spheres, the siege, Cicero's search for his tomb, and the prayer book that hid his lost writing.
+
+Chapters: 1. Ships Beneath the Sea Wall; 2. The City on the Island; 3. The Astronomer's Son; 4. The Law of the Lever; 5. The King's Great Ship; 6. The Golden Wreath; 7. Things That Float; 8. The Water Snail; 9. Circles and Spheres; 10. The Siege of Syracuse; 11. The Bronze Heavens; 12. Cicero Finds the Tomb; 13. The Book Beneath the Prayers; 14. Evening in Syracuse.</description>
+      <itunes:summary>The life of Archimedes in his home city of Syracuse, from the Roman fleet broken by his machines in 213 BC to the quiet harbour at evening. It follows the law of the lever and Hiero's great ship, the golden wreath and the bath (a later legend, told by Vitruvius), floating bodies, the water screw, circles and spheres, the siege, Cicero's search for his tomb, and the prayer book that hid his lost writing.
+
+Chapters: 1. Ships Beneath the Sea Wall; 2. The City on the Island; 3. The Astronomer's Son; 4. The Law of the Lever; 5. The King's Great Ship; 6. The Golden Wreath; 7. Things That Float; 8. The Water Snail; 9. Circles and Spheres; 10. The Siege of Syracuse; 11. The Bronze Heavens; 12. Cicero Finds the Tomb; 13. The Book Beneath the Prayers; 14. Evening in Syracuse.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/archimedes-the-geometer-of-syracuse.mp3" length="18062311" type="audio/mpeg"/>
+      <guid isPermaLink="false">archimedes-the-geometer-of-syracuse</guid>
+      <pubDate>Tue, 17 Nov 2026 06:32:20 -0500</pubDate>
+      <itunes:duration>00:30:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Hong Kong, Part 3: The Harbour at Evening</title>
       <description>The last of three nights in Hong Kong. The 1984 Joint Declaration and the rainy handover night of 1 July 1997 are told factually, then the story slows into the city as it lives today: the skyline, the ding ding trams, morning dim sum and cha chaan teng cafés, markets and festivals, the country parks, Lantau's Big Buddha and the stilt houses of Tai O, and the car-free outlying islands. It ends on an evening Star Ferry crossing of the harbour.
