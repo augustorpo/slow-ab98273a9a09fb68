@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:32:20 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:32:37 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Thomas Edison, Part 1: The Wizard of Menlo Park</title>
+      <description>The first of two nights with Thomas Edison. It opens at Menlo Park in December 1877, when a tinfoil machine first speaks back, then goes back to the canal town of Milan, Ohio, the boyhood by the St. Clair River at Port Huron, the newsboy and wandering telegrapher years, and the Newark workshops. From there it follows the invention factory at Menlo Park, the phonograph and the long search for a lasting light bulb in 1879, and ends on a quiet winter evening among the lamps in the snow.
+
+Chapters: 1. A Voice in the Machine (0:14); 2. A Canal Town in Ohio (2:17); 3. The Boy at Port Huron (4:08); 4. The Newsboy on the Grand Trunk (6:02); 5. The Wandering Telegrapher (7:43); 6. New York and Newark (9:58); 7. The Invention Factory (12:06); 8. The Men of Menlo Park (14:23); 9. The Talking Machine (16:13); 10. The Problem of Light (17:57); 11. A Thread of Carbon (20:33); 12. The Village of Light (22:49); 13. Night at Menlo Park (24:50); 14. A Winter Evening (26:08).</description>
+      <itunes:summary>The first of two nights with Thomas Edison. It opens at Menlo Park in December 1877, when a tinfoil machine first speaks back, then goes back to the canal town of Milan, Ohio, the boyhood by the St. Clair River at Port Huron, the newsboy and wandering telegrapher years, and the Newark workshops. From there it follows the invention factory at Menlo Park, the phonograph and the long search for a lasting light bulb in 1879, and ends on a quiet winter evening among the lamps in the snow.
+
+Chapters: 1. A Voice in the Machine (0:14); 2. A Canal Town in Ohio (2:17); 3. The Boy at Port Huron (4:08); 4. The Newsboy on the Grand Trunk (6:02); 5. The Wandering Telegrapher (7:43); 6. New York and Newark (9:58); 7. The Invention Factory (12:06); 8. The Men of Menlo Park (14:23); 9. The Talking Machine (16:13); 10. The Problem of Light (17:57); 11. A Thread of Carbon (20:33); 12. The Village of Light (22:49); 13. Night at Menlo Park (24:50); 14. A Winter Evening (26:08).</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/thomas-edison-1-the-wizard-of-menlo-park.mp3" length="16826569" type="audio/mpeg"/>
+      <guid isPermaLink="false">thomas-edison-1-the-wizard-of-menlo-park</guid>
+      <pubDate>Tue, 17 Nov 2026 06:32:37 -0500</pubDate>
+      <itunes:duration>00:28:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Archimedes: The Geometer of Syracuse</title>
       <description>The life of Archimedes in his home city of Syracuse, from the Roman fleet broken by his machines in 213 BC to the quiet harbour at evening. It follows the law of the lever and Hiero's great ship, the golden wreath and the bath (a later legend, told by Vitruvius), floating bodies, the water screw, circles and spheres, the siege, Cicero's search for his tomb, and the prayer book that hid his lost writing.
