@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:33:51 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:36:40 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Nikola Tesla, Part 2: The Power of Niagara</title>
+      <description>The second of two nights with Nikola Tesla. It opens with artificial lightning on the Colorado prairie in 1899, then goes back to the White City of the 1893 Chicago fair, the fire that destroyed his laboratory, and the harnessing of Niagara Falls, with power reaching Buffalo in November 1896. From there it follows Colorado Springs, the unfinished tower at Wardenclyffe, and the hotel years with his beloved pigeons, and ends on a quiet autumn night beside the falls.
+
+Chapters: 1. Lightning on the Prairie (0:14); 2. The White City (2:02); 3. The Egg of Columbus (4:20); 4. The Fire on South Fifth Avenue (5:45); 5. A Picture of Niagara (7:13); 6. The Choice of Current (9:20); 7. The Powerhouse (10:55); 8. Power for Buffalo (12:26); 9. Colorado Springs (13:51); 10. A Summer in the Mountains (15:16); 11. The Tower at Wardenclyffe (16:43); 12. Old Friends (19:03); 13. The Hotel Years (20:35); 14. The Pigeons (23:18); 15. The Unit of Light and Power (24:33); 16. Niagara at Night (25:31).</description>
+      <itunes:summary>The second of two nights with Nikola Tesla. It opens with artificial lightning on the Colorado prairie in 1899, then goes back to the White City of the 1893 Chicago fair, the fire that destroyed his laboratory, and the harnessing of Niagara Falls, with power reaching Buffalo in November 1896. From there it follows Colorado Springs, the unfinished tower at Wardenclyffe, and the hotel years with his beloved pigeons, and ends on a quiet autumn night beside the falls.
+
+Chapters: 1. Lightning on the Prairie (0:14); 2. The White City (2:02); 3. The Egg of Columbus (4:20); 4. The Fire on South Fifth Avenue (5:45); 5. A Picture of Niagara (7:13); 6. The Choice of Current (9:20); 7. The Powerhouse (10:55); 8. Power for Buffalo (12:26); 9. Colorado Springs (13:51); 10. A Summer in the Mountains (15:16); 11. The Tower at Wardenclyffe (16:43); 12. Old Friends (19:03); 13. The Hotel Years (20:35); 14. The Pigeons (23:18); 15. The Unit of Light and Power (24:33); 16. Niagara at Night (25:31).</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/nikola-tesla-2-the-power-of-niagara.mp3" length="16420114" type="audio/mpeg"/>
+      <guid isPermaLink="false">nikola-tesla-2-the-power-of-niagara</guid>
+      <pubDate>Tue, 17 Nov 2026 06:36:40 -0500</pubDate>
+      <itunes:duration>00:27:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Leonardo da Vinci, Part 1: The Boy from Vinci</title>
       <description>The first of three nights with Leonardo da Vinci. It opens with an unfinished Saint Jerome, then goes back to the hill town of Vinci in 1452 and the young man's apprenticeship in Andrea del Verrocchio's busy Florentine workshop. From the golden ball on the cathedral dome and his first dated landscape drawing to the angel in the Baptism of Christ, Ginevra de' Benci and the unfinished Adoration of the Magi, it follows him to his move to Milan around 1482, and ends on an evening on the Lombard plain.
