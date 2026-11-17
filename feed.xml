@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:37:52 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:38:55 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Zhang Heng and Su Song: The Dragon Jar and the Clock Tower</title>
+      <description>Two Chinese scholars nine centuries apart. Zhang Heng, the Han dynasty astronomer and poet, shows the court his bronze earthquake detector in AD 132, writes his rhapsodies on the capitals and turns a model of the heavens by water. Then Su Song builds his great water-driven clock tower at Kaifeng in the 1090s, with its escapement, armillary sphere and little figures announcing the hours. It ends in the quiet observatory garden at Gaocheng.
+
+Chapters: 1. The Dragon and the Toad; 2. A Boy from Nanyang; 3. Rhapsodies on the Capitals; 4. The Chief Astronomer; 5. How the Dragon Knew; 6. Return to the Fields; 7. Nine Hundred Years; 8. Su Song of Quanzhou; 9. The Emperor's Clock; 10. Inside the Tower; 11. The Book and the Lost Tower; 12. The Observatory Garden.</description>
+      <itunes:summary>Two Chinese scholars nine centuries apart. Zhang Heng, the Han dynasty astronomer and poet, shows the court his bronze earthquake detector in AD 132, writes his rhapsodies on the capitals and turns a model of the heavens by water. Then Su Song builds his great water-driven clock tower at Kaifeng in the 1090s, with its escapement, armillary sphere and little figures announcing the hours. It ends in the quiet observatory garden at Gaocheng.
+
+Chapters: 1. The Dragon and the Toad; 2. A Boy from Nanyang; 3. Rhapsodies on the Capitals; 4. The Chief Astronomer; 5. How the Dragon Knew; 6. Return to the Fields; 7. Nine Hundred Years; 8. Su Song of Quanzhou; 9. The Emperor's Clock; 10. Inside the Tower; 11. The Book and the Lost Tower; 12. The Observatory Garden.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/zhang-heng-and-su-song-the-dragon-jar-and-the-clock-tower.mp3" length="16344520" type="audio/mpeg"/>
+      <guid isPermaLink="false">zhang-heng-and-su-song-the-dragon-jar-and-the-clock-tower</guid>
+      <pubDate>Tue, 17 Nov 2026 06:38:55 -0500</pubDate>
+      <itunes:duration>00:27:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Leonardo da Vinci, Part 2: The Horse and the Supper</title>
       <description>The second of three nights with Leonardo da Vinci, his eighteen years in Milan under Ludovico Sforza. It opens with his remarkable letter to the duke offering war machines, bridges and, almost as an afterthought, painting. Then it follows the Virgin of the Rocks, the Lady with an Ermine, the great clay horse whose bronze became cannon, the Last Supper and the notebooks on flight, water and anatomy, and ends quietly in the vineyard the duke gave him.
