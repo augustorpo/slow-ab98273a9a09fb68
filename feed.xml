@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:44:21 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:44:54 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>James Watt: The Separate Condenser</title>
+      <description>The story of James Watt, from a Sunday walk on Glasgow Green in 1765 to his quiet garret workshop at Heathfield. It follows the instrument maker's workshop in Glasgow University, the little Newcomen model that would not run, the separate condenser, the long partnership with Matthew Boulton at Soho, the first engines in Birmingham and Cornwall, and the horse power and the watt. It ends on an evening by the Clyde.
+
+Chapters: 1. A Sunday Walk on Glasgow Green; 2. The Shipwright's Son; 3. A Workshop in the College; 4. The Engine That Would Not Run; 5. The Separate Condenser; 6. Matthew Boulton and Soho; 7. The First Engines; 8. Wheels That Turn; 9. The Horse and the Watt; 10. A Restless Mind; 11. Heathfield; 12. Evening on the Clyde.</description>
+      <itunes:summary>The story of James Watt, from a Sunday walk on Glasgow Green in 1765 to his quiet garret workshop at Heathfield. It follows the instrument maker's workshop in Glasgow University, the little Newcomen model that would not run, the separate condenser, the long partnership with Matthew Boulton at Soho, the first engines in Birmingham and Cornwall, and the horse power and the watt. It ends on an evening by the Clyde.
+
+Chapters: 1. A Sunday Walk on Glasgow Green; 2. The Shipwright's Son; 3. A Workshop in the College; 4. The Engine That Would Not Run; 5. The Separate Condenser; 6. Matthew Boulton and Soho; 7. The First Engines; 8. Wheels That Turn; 9. The Horse and the Watt; 10. A Restless Mind; 11. Heathfield; 12. Evening on the Clyde.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/james-watt-the-separate-condenser.mp3" length="16949059" type="audio/mpeg"/>
+      <guid isPermaLink="false">james-watt-the-separate-condenser</guid>
+      <pubDate>Tue, 17 Nov 2026 06:44:54 -0500</pubDate>
+      <itunes:duration>00:28:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Alan Turing: The Universal Machine</title>
       <description>A single night with Alan Turing. It opens in Hut Eight at Bletchley Park in 1940, where the naval Enigma was attacked with his new bombe, then goes back to the boy who cycled sixty miles to Sherborne during the General Strike, King's College, and the 1936 paper that imagined the universal machine. After Bletchley come the ACE design, Manchester, the imitation game and his work on spots and stripes; his last years and his death in 1954 are told briefly and factually. It ends with his long runs, the meadows at Grantchester, and an evening by the lake at Bletchley.

@@ -473,5 +473,16 @@
     "pub_iso": "2026-11-17T06:44:00-05:00",
     "guid": "alan-turing-the-universal-machine",
     "slug": "alan-turing-the-universal-machine"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "James Watt: The Separate Condenser",
+    "description": "The story of James Watt, from a Sunday walk on Glasgow Green in 1765 to his quiet garret workshop at Heathfield. It follows the instrument maker's workshop in Glasgow University, the little Newcomen model that would not run, the separate condenser, the long partnership with Matthew Boulton at Soho, the first engines in Birmingham and Cornwall, and the horse power and the watt. It ends on an evening by the Clyde.\n\nChapters: 1. A Sunday Walk on Glasgow Green; 2. The Shipwright's Son; 3. A Workshop in the College; 4. The Engine That Would Not Run; 5. The Separate Condenser; 6. Matthew Boulton and Soho; 7. The First Engines; 8. Wheels That Turn; 9. The Horse and the Watt; 10. A Restless Mind; 11. Heathfield; 12. Evening on the Clyde.",
+    "file": "james-watt-the-separate-condenser.mp3",
+    "length": 16949059,
+    "duration": "00:28:15",
+    "pub_iso": "2026-11-17T06:44:54-05:00",
+    "guid": "james-watt-the-separate-condenser",
+    "slug": "james-watt-the-separate-condenser"
   }
 ]
