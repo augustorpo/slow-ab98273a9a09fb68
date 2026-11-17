@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:39:27 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:41:48 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Johannes Gutenberg: The Press in Mainz</title>
+      <description>How a goldsmith of Mainz made the first great printed book in Europe. It follows Johannes Gutenberg from the patrician families of Mainz to his secret venture in Strasbourg, the punches, moulds, type metal and press, the 42-line Bible of around 1455, and the lawsuit with Johann Fust that cost him his workshop. Then it traces how printing spread across Europe, and ends in a quiet print shop at dusk.
+
+Chapters: 1. Pages at the Frankfurt Fair; 2. The Patrician of Mainz; 3. The Venture in Strasbourg; 4. The Problem of the Letters; 5. The Workshop at the Humbrechthof; 6. How a Page Was Printed; 7. The Great Bible; 8. Fust and the Lawsuit; 9. The Quiet Years; 10. How Print Spread; 11. What the Press Changed; 12. Evening in the Print Shop.</description>
+      <itunes:summary>How a goldsmith of Mainz made the first great printed book in Europe. It follows Johannes Gutenberg from the patrician families of Mainz to his secret venture in Strasbourg, the punches, moulds, type metal and press, the 42-line Bible of around 1455, and the lawsuit with Johann Fust that cost him his workshop. Then it traces how printing spread across Europe, and ends in a quiet print shop at dusk.
+
+Chapters: 1. Pages at the Frankfurt Fair; 2. The Patrician of Mainz; 3. The Venture in Strasbourg; 4. The Problem of the Letters; 5. The Workshop at the Humbrechthof; 6. How a Page Was Printed; 7. The Great Bible; 8. Fust and the Lawsuit; 9. The Quiet Years; 10. How Print Spread; 11. What the Press Changed; 12. Evening in the Print Shop.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/johannes-gutenberg-the-press-in-mainz.mp3" length="16796920" type="audio/mpeg"/>
+      <guid isPermaLink="false">johannes-gutenberg-the-press-in-mainz</guid>
+      <pubDate>Tue, 17 Nov 2026 06:41:48 -0500</pubDate>
+      <itunes:duration>00:28:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>The Wright Brothers: The Bicycle Makers Who Flew</title>
       <description>The Wright brothers, from a Dayton bicycle shop to the first powered flights. It opens on the freezing morning of 17 December 1903 at Kill Devil Hills, then goes back to the bishop's boys, the toy helicopter, the printing press and the bicycle shop. It follows the twisted inner-tube box, the gliders at Kitty Hawk, the homemade wind tunnel and Charlie Taylor's engine to the circles over Huffman Prairie, and ends on the quiet dunes at evening.
