@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:44:54 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:45:09 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Marie Curie, Part 2: The Garden of the Radium Institute</title>
+      <description>The second of two nights with Marie Curie. It opens in September 1914, as she carries France's radium to Bordeaux and hurries back to Paris, then goes back to the years after the first Nobel Prize, Pierre's sudden death in 1906, her chair at the Sorbonne, the 1911 Nobel Prize, and the little X-ray cars she drove to the front in the First World War. From there it follows the Radium Institute and her daughter Irène, and ends on a June evening in the garden of lime trees and roses she planted in Paris.
+
+Chapters: 1. A Train to Bordeaux (0:14); 2. A House with Two Daughters (2:01); 3. The Rue Dauphine (3:36); 4. The Chair at the Sorbonne (5:09); 5. The Little School (6:33); 6. Radium, Pure and Weighed (7:52); 7. A Hard Year (9:09); 8. Rest and Recovery (10:51); 9. The Quai de Béthune (12:13); 10. The Radium Institute (13:30); 11. The Little Curies (14:43); 12. The New Laboratory (17:51); 13. The Patronne (19:48); 14. Irène (21:11); 15. Summers at L'Arcouest (22:37); 16. The Garden of the Radium Institute (24:06); 17. Evening in the Garden (25:33).</description>
+      <itunes:summary>The second of two nights with Marie Curie. It opens in September 1914, as she carries France's radium to Bordeaux and hurries back to Paris, then goes back to the years after the first Nobel Prize, Pierre's sudden death in 1906, her chair at the Sorbonne, the 1911 Nobel Prize, and the little X-ray cars she drove to the front in the First World War. From there it follows the Radium Institute and her daughter Irène, and ends on a June evening in the garden of lime trees and roses she planted in Paris.
+
+Chapters: 1. A Train to Bordeaux (0:14); 2. A House with Two Daughters (2:01); 3. The Rue Dauphine (3:36); 4. The Chair at the Sorbonne (5:09); 5. The Little School (6:33); 6. Radium, Pure and Weighed (7:52); 7. A Hard Year (9:09); 8. Rest and Recovery (10:51); 9. The Quai de Béthune (12:13); 10. The Radium Institute (13:30); 11. The Little Curies (14:43); 12. The New Laboratory (17:51); 13. The Patronne (19:48); 14. Irène (21:11); 15. Summers at L'Arcouest (22:37); 16. The Garden of the Radium Institute (24:06); 17. Evening in the Garden (25:33).</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/marie-curie-2-the-garden-of-the-radium-institute.mp3" length="16498942" type="audio/mpeg"/>
+      <guid isPermaLink="false">marie-curie-2-the-garden-of-the-radium-institute</guid>
+      <pubDate>Tue, 17 Nov 2026 06:45:09 -0500</pubDate>
+      <itunes:duration>00:27:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>James Watt: The Separate Condenser</title>
       <description>The story of James Watt, from a Sunday walk on Glasgow Green in 1765 to his quiet garret workshop at Heathfield. It follows the instrument maker's workshop in Glasgow University, the little Newcomen model that would not run, the separate condenser, the long partnership with Matthew Boulton at Soho, the first engines in Birmingham and Cornwall, and the horse power and the watt. It ends on an evening by the Clyde.
