@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:37:39 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:37:52 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Leonardo da Vinci, Part 2: The Horse and the Supper</title>
+      <description>The second of three nights with Leonardo da Vinci, his eighteen years in Milan under Ludovico Sforza. It opens with his remarkable letter to the duke offering war machines, bridges and, almost as an afterthought, painting. Then it follows the Virgin of the Rocks, the Lady with an Ermine, the great clay horse whose bronze became cannon, the Last Supper and the notebooks on flight, water and anatomy, and ends quietly in the vineyard the duke gave him.
+
+Chapters: 1. A Letter to the Duke; 2. The Moor of Milan; 3. A City on Two Levels; 4. The Virgin of the Rocks; 5. A Festival of Planets; 6. The Lady with an Ermine; 7. The Little Devil; 8. Fables and Riddles; 9. The Great Horse; 10. Bronze for Cannon; 11. The Refectory Wall; 12. The Prior's Complaint; 13. The Notebooks; 14. Wings and Water; 15. Inside the Body; 16. A Ceiling of Mulberry Trees; 17. The Fall of the Moor; 18. The Vineyard.</description>
+      <itunes:summary>The second of three nights with Leonardo da Vinci, his eighteen years in Milan under Ludovico Sforza. It opens with his remarkable letter to the duke offering war machines, bridges and, almost as an afterthought, painting. Then it follows the Virgin of the Rocks, the Lady with an Ermine, the great clay horse whose bronze became cannon, the Last Supper and the notebooks on flight, water and anatomy, and ends quietly in the vineyard the duke gave him.
+
+Chapters: 1. A Letter to the Duke; 2. The Moor of Milan; 3. A City on Two Levels; 4. The Virgin of the Rocks; 5. A Festival of Planets; 6. The Lady with an Ermine; 7. The Little Devil; 8. Fables and Riddles; 9. The Great Horse; 10. Bronze for Cannon; 11. The Refectory Wall; 12. The Prior's Complaint; 13. The Notebooks; 14. Wings and Water; 15. Inside the Body; 16. A Ceiling of Mulberry Trees; 17. The Fall of the Moor; 18. The Vineyard.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/leonardo-da-vinci-2-the-horse-and-the-supper.mp3" length="16930965" type="audio/mpeg"/>
+      <guid isPermaLink="false">leonardo-da-vinci-2-the-horse-and-the-supper</guid>
+      <pubDate>Tue, 17 Nov 2026 06:37:52 -0500</pubDate>
+      <itunes:duration>00:28:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Galileo Galilei, Part 2: The Villa at Arcetri</title>
       <description>The second of two nights with Galileo. It begins with the morning in June 1633 when he knelt before the Roman Inquisition, then goes back to tell, factually and calmly, how he came there: Florence, the letters on scripture, the decree of 1616, the Dialogue and its cabin below decks, and the trial. Then it slows into his last years under house arrest at Arcetri, his daughter Maria Celeste, Two New Sciences and the pendulum clock, and ends on a spring evening on the Tuscan hills above Florence.
