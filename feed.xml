@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 21:53:10 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 21:54:26 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Tokyo, Part 2: The Eastern Capital</title>
+      <description>The second night in Tokyo follows Edo becoming Tokyo in 1868, the emperor moving into the old castle, the first railway, Ginza's brick town, Tokyo Station and the first subway. It covers the 1923 earthquake and the 1945 fire raids soberly and briefly, then the rebuilding and the 1964 Olympics and Shinkansen. The rest is a slow walk through quiet places you can visit in December: the Meiji Jingu forest, Ueno, Yanaka, the last streetcar, Tsukiji, a neighbourhood bath, winter views of Mount Fuji, the turn of the year, and the Sumida at dusk.
+
+Chapters: 1. The Castle Changes Hands; 2. An Emperor in the East; 3. Steam and Brick; 4. A City of Stations; 5. The Earthquake of 1923; 6. Fire and Rebuilding; 7. The Autumn of 1964; 8. A Forest Planted by a Nation; 9. The Hill at Ueno; 10. The Old Lanes of Yanaka; 11. A Garden by the River; 12. The Last Streetcar; 13. Morning at the Market; 14. The Neighbourhood Bath; 15. Winter Light on the Mountain; 16. The Turning of the Year; 17. The Sumida at Dusk.</description>
+      <itunes:summary>The second night in Tokyo follows Edo becoming Tokyo in 1868, the emperor moving into the old castle, the first railway, Ginza's brick town, Tokyo Station and the first subway. It covers the 1923 earthquake and the 1945 fire raids soberly and briefly, then the rebuilding and the 1964 Olympics and Shinkansen. The rest is a slow walk through quiet places you can visit in December: the Meiji Jingu forest, Ueno, Yanaka, the last streetcar, Tsukiji, a neighbourhood bath, winter views of Mount Fuji, the turn of the year, and the Sumida at dusk.
+
+Chapters: 1. The Castle Changes Hands; 2. An Emperor in the East; 3. Steam and Brick; 4. A City of Stations; 5. The Earthquake of 1923; 6. Fire and Rebuilding; 7. The Autumn of 1964; 8. A Forest Planted by a Nation; 9. The Hill at Ueno; 10. The Old Lanes of Yanaka; 11. A Garden by the River; 12. The Last Streetcar; 13. Morning at the Market; 14. The Neighbourhood Bath; 15. Winter Light on the Mountain; 16. The Turning of the Year; 17. The Sumida at Dusk.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/tokyo-2-the-eastern-capital.mp3" length="16866764" type="audio/mpeg"/>
+      <guid isPermaLink="false">tokyo-2-the-eastern-capital</guid>
+      <pubDate>Mon, 16 Nov 2026 21:55:00 -0500</pubDate>
+      <itunes:duration>00:28:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Medellín, Parte 2: El valle de la eterna primavera</title>
       <description>Segunda parte, dedicada a Medellín y al valle de Aburrá. Empieza con los años difíciles, contados con sobriedad, y con la transformación de la ciudad: el Metro, el Metrocable, los parques biblioteca y las escaleras de la Comuna 13. Luego vuelve a la Villa de la Candelaria de 1675, la capital de 1826, el tren y las fábricas textiles, y sube hasta Santa Elena, los silleteros y la Feria de las Flores. Termina con el valle iluminado y la neblina sobre las montañas.
@@ -30,6 +46,22 @@ Capítulos: 1. El valle de Aburrá; 2. Los años difíciles; 3. La transformaci�
       <guid isPermaLink="false">medellin-2-el-valle-de-la-eterna-primavera</guid>
       <pubDate>Mon, 16 Nov 2026 21:54:00 -0500</pubDate>
       <itunes:duration>00:27:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Tokyo, Part 1: The Castle Town of Edo</title>
+      <description>The first of two nights in Tokyo. It opens with Perry's black ships in the bay in 1853, then goes back to the fishing shore of Edo, Ota Dokan's castle of 1457 and Tokugawa Ieyasu's arrival in 1590. From there it follows the shogun's castle town, the lords' processions, the great fire of 1657, the aqueducts, Nihonbashi, the fish market and the floating world, and ends on an ordinary evening by the Sumida River.
+
+Chapters: 1. Black Ships in the Bay; 2. A Village Where the Rivers Meet the Sea; 3. The Castle of Ota Dokan; 4. Ieyasu Comes East; 5. Making Land from Marsh and Hill; 6. The Lords' Long Roads; 7. The Long-Sleeves Fire; 8. Temples and Shrines of the Town; 9. Water for a Million People; 10. Nihonbashi, the Bridge at the Centre; 11. Markets and Morning Fish; 12. The Floating World; 13. The Gardens of the Lords; 14. Seasons Along the River; 15. An Evening in Old Edo.</description>
+      <itunes:summary>The first of two nights in Tokyo. It opens with Perry's black ships in the bay in 1853, then goes back to the fishing shore of Edo, Ota Dokan's castle of 1457 and Tokugawa Ieyasu's arrival in 1590. From there it follows the shogun's castle town, the lords' processions, the great fire of 1657, the aqueducts, Nihonbashi, the fish market and the floating world, and ends on an ordinary evening by the Sumida River.
+
+Chapters: 1. Black Ships in the Bay; 2. A Village Where the Rivers Meet the Sea; 3. The Castle of Ota Dokan; 4. Ieyasu Comes East; 5. Making Land from Marsh and Hill; 6. The Lords' Long Roads; 7. The Long-Sleeves Fire; 8. Temples and Shrines of the Town; 9. Water for a Million People; 10. Nihonbashi, the Bridge at the Centre; 11. Markets and Morning Fish; 12. The Floating World; 13. The Gardens of the Lords; 14. Seasons Along the River; 15. An Evening in Old Edo.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/tokyo-1-the-castle-town-of-edo.mp3" length="16910204" type="audio/mpeg"/>
+      <guid isPermaLink="false">tokyo-1-the-castle-town-of-edo</guid>
+      <pubDate>Mon, 16 Nov 2026 21:54:00 -0500</pubDate>
+      <itunes:duration>00:28:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
