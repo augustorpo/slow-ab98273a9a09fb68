@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:41:48 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:42:10 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Marie Curie, Part 1: The Shed on the Rue Lhomond</title>
+      <description>The first of two nights with Marie Curie. It opens in a darkened shed in Paris, where tubes of radium glow on the shelves, then goes back to her childhood in Russian-ruled Warsaw, the secret Flying University, the years as a governess, and a cold garret near the Sorbonne. From there it follows her meeting with Pierre Curie, the uranium rays, the discovery of polonium and radium, and the 1903 Nobel Prize, and ends on a quiet Sunday bicycle ride in the countryside.
+
+Chapters: 1. The Glow in the Dark (0:14); 2. A Childhood in Warsaw (2:00); 3. The School and the Inspector (4:02); 4. The Flying University (5:33); 5. The Governess (6:53); 6. A Garret in the Latin Quarter (8:47); 7. Pierre (11:23); 8. A Wedding and Two Bicycles (13:34); 9. The Uranium Rays (14:56); 10. A New Element (17:07); 11. The Shed on the Rue Lhomond (18:40); 12. Sèvres and the Boulevard Kellermann (20:38); 13. Fame (22:27); 14. The Prize (23:54); 15. Sunday in the Countryside (25:17).</description>
+      <itunes:summary>The first of two nights with Marie Curie. It opens in a darkened shed in Paris, where tubes of radium glow on the shelves, then goes back to her childhood in Russian-ruled Warsaw, the secret Flying University, the years as a governess, and a cold garret near the Sorbonne. From there it follows her meeting with Pierre Curie, the uranium rays, the discovery of polonium and radium, and the 1903 Nobel Prize, and ends on a quiet Sunday bicycle ride in the countryside.
+
+Chapters: 1. The Glow in the Dark (0:14); 2. A Childhood in Warsaw (2:00); 3. The School and the Inspector (4:02); 4. The Flying University (5:33); 5. The Governess (6:53); 6. A Garret in the Latin Quarter (8:47); 7. Pierre (11:23); 8. A Wedding and Two Bicycles (13:34); 9. The Uranium Rays (14:56); 10. A New Element (17:07); 11. The Shed on the Rue Lhomond (18:40); 12. Sèvres and the Boulevard Kellermann (20:38); 13. Fame (22:27); 14. The Prize (23:54); 15. Sunday in the Countryside (25:17).</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/marie-curie-1-the-shed-on-the-rue-lhomond.mp3" length="16308498" type="audio/mpeg"/>
+      <guid isPermaLink="false">marie-curie-1-the-shed-on-the-rue-lhomond</guid>
+      <pubDate>Tue, 17 Nov 2026 06:42:10 -0500</pubDate>
+      <itunes:duration>00:27:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Johannes Gutenberg: The Press in Mainz</title>
       <description>How a goldsmith of Mainz made the first great printed book in Europe. It follows Johannes Gutenberg from the patrician families of Mainz to his secret venture in Strasbourg, the punches, moulds, type metal and press, the 42-line Bible of around 1455, and the lawsuit with Johann Fust that cost him his workshop. Then it traces how printing spread across Europe, and ends in a quiet print shop at dusk.
