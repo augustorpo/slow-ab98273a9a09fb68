@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/slow-ab98273a9a09fb68/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 22:00:40 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:05:54 -0500</lastBuildDate>
     <itunes:author>Slow History</itunes:author>
     <itunes:summary>A private bedtime history podcast made for Augusto Restrepo. A calm narrator tells real, carefully researched history (cities, inventors, ancient worlds) at an unhurried pace.</itunes:summary>
     <itunes:subtitle>Real history, calmly told.</itunes:subtitle>
@@ -17,6 +17,22 @@
     <image><url>https://augustorpo.github.io/slow-ab98273a9a09fb68/cover.jpg</url><title>Slow History</title><link>https://augustorpo.github.io/slow-ab98273a9a09fb68/</link></image>
     <itunes:category text="History"/>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Hong Kong, Part 1: The Fragrant Harbour</title>
+      <description>The first of three nights in Hong Kong. A single narrator follows the fragrant harbour from the volcanic fires that shaped its granite hills, through Neolithic shore camps, Tang and Song era salt fields, pearl beds and walled villages, and the boat-dwelling families of the bays. Then come the opium trade, Commissioner Lin, the First Opium War, the landing of January 1841, the Treaty of Nanking, Kowloon in 1860 and the New Territories lease of 1898, before the story settles into a quiet evening on the harbour around 1900.
+
+Chapters: 1. A Harbour Between Mountains; 2. Fire Beneath the Hills; 3. The First People of the Shore; 4. Salt, Pearls, and Incense; 5. The Boy Emperor and the Walled Villages; 6. People of the Water; 7. Tea, Silver, and Opium; 8. The Commissioner and the Sea; 9. The First Opium War; 10. The Treaty of Nanking; 11. Across the Water to Kowloon; 12. The Lease of 1898; 13. Evening on the Harbour.</description>
+      <itunes:summary>The first of three nights in Hong Kong. A single narrator follows the fragrant harbour from the volcanic fires that shaped its granite hills, through Neolithic shore camps, Tang and Song era salt fields, pearl beds and walled villages, and the boat-dwelling families of the bays. Then come the opium trade, Commissioner Lin, the First Opium War, the landing of January 1841, the Treaty of Nanking, Kowloon in 1860 and the New Territories lease of 1898, before the story settles into a quiet evening on the harbour around 1900.
+
+Chapters: 1. A Harbour Between Mountains; 2. Fire Beneath the Hills; 3. The First People of the Shore; 4. Salt, Pearls, and Incense; 5. The Boy Emperor and the Walled Villages; 6. People of the Water; 7. Tea, Silver, and Opium; 8. The Commissioner and the Sea; 9. The First Opium War; 10. The Treaty of Nanking; 11. Across the Water to Kowloon; 12. The Lease of 1898; 13. Evening on the Harbour.</itunes:summary>
+      <itunes:author>Slow History</itunes:author>
+      <enclosure url="https://augustorpo.github.io/slow-ab98273a9a09fb68/episodes/hong-kong-1-the-fragrant-harbour.mp3" length="17535404" type="audio/mpeg"/>
+      <guid isPermaLink="false">hong-kong-1-the-fragrant-harbour</guid>
+      <pubDate>Mon, 16 Nov 2026 22:40:00 -0500</pubDate>
+      <itunes:duration>00:29:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Tokyo, Part 2: The Eastern Capital</title>
       <description>The second night in Tokyo follows Edo becoming Tokyo in 1868, the emperor moving into the old castle, the first railway, Ginza's brick town, Tokyo Station and the first subway. It covers the 1923 earthquake and the 1945 fire raids soberly and briefly, then the rebuilding and the 1964 Olympics and Shinkansen. The rest is a slow walk through quiet places you can visit in December: the Meiji Jingu forest, Ueno, Yanaka, the last streetcar, Tsukiji, a neighbourhood bath, winter views of Mount Fuji, the turn of the year, and the Sumida at dusk.
